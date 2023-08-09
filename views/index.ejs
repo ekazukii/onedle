@@ -14,7 +14,7 @@
             <header>
                 <nav>
                     <ul>
-                        <li> <input type="image" src="img/barchart.svg" onclick="openSettings()" /> </li>
+                        <li> <input type="image" src="img/question.svg" onclick="openHelp()" /> </li>
                         <li> <input type="image" src="img/settings.svg" onclick="openSettings()" /> </li>
                     </ul>
                 </nav>
@@ -92,8 +92,8 @@
         <img src="img/sunny.png" alt="" class="sunny-img">
     </div>
 
-    <div id="settings-modal">
-        <input id="close-modal"type="image" src="img/close-circle.svg" onclick="closeSettings()" />
+    <div id="settings-modal" class="modal">
+        <input class="close-modal"type="image" src="img/close-circle.svg" onclick="closeSettings()" />
 
         <h2>Settings</h2>
         <div class="settings-input">
@@ -116,7 +116,29 @@
         </div>
     </div>
 
+    <div id="help-modal" class="modal">
+        <input class="close-modal"type="image" src="img/close-circle.svg" onclick="closeHelp()" />
+
+        <h2>Help</h2>
+        <div class="separated-text">
+            <div>
+                <p>Onedle is an online game inspired by Wordle and Loldle, the goal is to find the today's character by entering the name of other One Piece character, it will highlight its similarities with the today's character to help you find it.</p>
+            </div>
+            <div>
+                <p>The color of the cell indicates if the character has the exact same properties than the today's character.</p>
+                <p>A green cell means that the two characters has the same "type" (Both only pirates for example). </p>
+                <p>An orange cell means that the two characters shares some common properties. For example one is a pirate captain and the other one is only a pirate.</p>
+                <p>A red cell means that the two characters has no properties in common. For example one is a Pirate and the other a Cipher Pol agent.</p>
+                <p>For the bounty, age and first apparition properties an arrow indicates if the todays character value is higher or lower. For example 47↑ means that the today's character is older than 47.</p>
+            </div>
+            <div>
+                <p>All the data has been gathered from the <a href="onepiece.fandom.com/wiki">One Piece fandom</a> using some code from <a href="https://github.com/dilaouid/FandomScraper">FandomScraper</a></p>
+            </div>
+        </div>
+    </div>
+
     <div id="local-clear" class="toast">Local game data cleared</div>
+    <div id="win-toast" class="toast">Good job ! You won in <span id="n-tries"></span> tries</div>
 
 
     <script src="js/game.js"></script>

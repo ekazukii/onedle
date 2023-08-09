@@ -10,6 +10,11 @@
   size-adjust: 90%;
 }
 
+@font-face {
+  font-family: Roboto;
+  src: url(roboto-regular.ttf);
+}
+
 :root {
   /*background: url(https://data.pixiz.com/output/user/frame/preview/400x400/2/9/5/2/1332592_c9920.jpg);*/
   --primary-color: #3864c1;
@@ -268,11 +273,11 @@ footer img {
   background-color: rgba(0, 0, 0, 0.2);
 }
 
-#settings-modal {
+.modal {
   display: none;
 }
 
-#settings-modal.open {
+.modal.open {
   --settings-modal-padding: 1.6rem;
   position: absolute;
   min-width: calc(40vw - var(--settings-modal-padding));
@@ -289,12 +294,12 @@ footer img {
   display: block;
 }
 
-#settings-modal.open > h2 {
+.modal.open > h2 {
   text-align: center;
   margin-bottom: 1.6rem;
 }
 
-#settings-modal.open .settings-input {
+.modal.open .settings-input {
   display: flex;
   justify-content: space-between;
   gap: 1.4rem;
@@ -302,15 +307,36 @@ footer img {
   margin: 0.4rem 1rem;
 }
 
-#settings-modal.open .settings-input > input[type='image'] {
+.modal.open .settings-input > input[type='image'] {
   width: var(--icon-size);
   height: var(--icon-size);
   margin-right: 14px;
 }
 
-#close-modal {
+.close-modal {
   width: var(--icon-size);
   height: var(--icon-size);
   float: right;
   display: block;
+}
+
+#help-modal p {
+  font-family: Roboto, sans-serif;
+}
+
+#help-modal {
+  min-width: calc(60vw - var(--settings-modal-padding));
+  min-height: calc(60vh - var(--settings-modal-padding));
+}
+
+#help-modal h2 {
+  margin-bottom: 3rem;
+}
+
+#help-modal .separated-text > div {
+  margin: 1.6rem 0;
+}
+
+#help-modal .separated-text > div > p {
+  margin: 0.4rem 0;
 }

@@ -88,7 +88,6 @@ app.post('/htmx/guess', async (req, res) => {
     res.status(404).send('Character not found');
     return;
   }
-  console.log(cryptoBroMode);
   if (cryptoBroMode && char.bounty && !char.btcBounty) {
     const btcUsdPrice = await getBTCPrice();
     const charDollarsBounty = char.bounty / 100;

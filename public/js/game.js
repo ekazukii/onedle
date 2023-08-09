@@ -12,6 +12,15 @@ async function handleWin() {
 
   document.getElementById('win-message').classList.add('active');
   document.getElementById('interactive-game').classList.remove('active');
+
+  const tries = document.getElementById('tbody').childElementCount;
+  document.getElementById('n-tries').innerHTML = tries;
+
+  const toast = document.getElementById('win-toast');
+  toast.classList.add('show', 'gray');
+  setTimeout(function () {
+    toast.classList.remove('show', 'gray');
+  }, 3000);
 }
 
 async function backupGuesses() {
@@ -68,3 +77,15 @@ async function initGame() {
 }
 
 initGame();
+
+// --------- HELP ------------
+
+function openHelp() {
+  document.getElementById('page').classList.add('blur');
+  document.getElementById('help-modal').classList.add('open');
+}
+
+function closeHelp() {
+  document.getElementById('page').classList.remove('blur');
+  document.getElementById('help-modal').classList.remove('open');
+}
