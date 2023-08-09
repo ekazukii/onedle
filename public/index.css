@@ -229,21 +229,21 @@ td {
 
 @keyframes slidein {
   from {
-    transform: translateX(-10vw) scaleX(-1);
+    transform: translateX(-5em) scaleX(-1);
   }
   to {
-    transform: translateX(110vw) scaleX(-1);
-    display: none;
+    transform: translateX(calc(100vw + 5em)) scaleX(-1);
+    visibility: hidden;
   }
 }
 
 @keyframes slidein-rtol {
   from {
-    transform: translateX(110vw);
+    transform: translateX(calc(100vw + 5em));
   }
   to {
-    transform: translateX(-10vw);
-    display: none;
+    transform: translateX(-5em);
+    visibility: hidden;
   }
 }
 
