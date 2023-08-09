@@ -110,6 +110,12 @@ form {
   filter: invert(37%) sepia(96%) saturate(438%) hue-rotate(178deg) brightness(88%) contrast(90%);
 }
 
+#gametable-ctn {
+  overflow-x: scroll !important;
+  display: block;
+  max-width: 90vw;
+}
+
 table {
   margin-top: 50px;
   font-size: 0.8rem;
@@ -117,7 +123,7 @@ table {
 
 th {
   font-weight: 600;
-  width: 7rem;
+  min-width: 7rem;
   position: relative;
   padding-bottom: 6px;
 }
