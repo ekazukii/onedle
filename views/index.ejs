@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ONEDLE</title>
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="css/switch.css">
+    <link rel="stylesheet" href="css/toast.css">
+</head>
+<body>
+    <div id="page">
+        <div>
+            <header>
+                <nav>
+                    <ul>
+                        <li> <input type="image" src="img/barchart.svg" onclick="openSettings()" /> </li>
+                        <li> <input type="image" src="img/settings.svg" onclick="openSettings()" /> </li>
+                    </ul>
+                </nav>
+            </header>
+
+            <main>
+                <section id="presentation">
+                    <h1>ONEDLE</h1>
+                </section>
+                <section id="game">
+                    <div id="interactive-game">
+                        <p>Guess the today's One Piece character</p>
+                        <div id="ctn-input">
+                            <form id="form">
+                                <input type="text" id="character" name="character" list="character-list" onsubmit="submitGuess(event)" placeholder="Type a one piece character"/>
+                                <button onclick="submitGuess(event)">
+                                    <img src="img/arrowdown.svg" id="validate-icon"/>
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+
+                    <div id="win-message">
+                        <p>You already won today, come back tomorrow !</p>
+                        <p><%= winners %> persons currently guessed the today's character</p>
+                    </div>
+
+                    <datalist id="character-list">
+                        <% for (char of entries) { %>
+                            <option value="<%= char.ename %>"> <%= char.ename %> </option>
+                        <% } %>
+                    </datalist>
+                    <table>
+                        <thead>
+                            <th>Name</th>
+                            <th>Status</th>
+                            <th>First apparition</th>
+                            <th>Origin</th>
+                            <th>Age</th>
+                            <th>Devil fruit type</th>
+                            <th>Bounty</th>
+                            <th>Occupation</th>
+                        </thead>
+                        <tbody id="tbody">
+                        </tbody>
+                    </table>
+                </section>
+            </main>
+        </div>
+
+        <footer>
+            <a href="https://twitter.com/ekazukiii">
+                <img src="img/twitter.svg" alt="twitter logo"/>
+            </a>
+            <a href="mailto:contact@ekazuki.fr">
+                <img src="img/mail.svg" alt="email icon">
+            </a>
+            <a href="https://github.com/ekazukii">
+                <img src="img/github.svg" alt="github logo">
+            </a>
+            <!--
+            <a href="#" aria-disabled="true">
+                <img src="img/database.svg" alt="dataset icons .csv">
+            </a>
+            -->
+        </footer>
+    </div>
+
+    <div class="sunny-container">
+        <img src="img/sunny.png" alt="" class="sunny-img">
+    </div>
+    <div class="sunny-container sunny-left-ctn">
+        <img src="img/sunny.png" alt="" class="sunny-img">
+    </div>
+
+    <div id="settings-modal">
+        <input id="close-modal"type="image" src="img/close-circle.svg" onclick="closeSettings()" />
+
+        <h2>Settings</h2>
+        <div class="settings-input">
+            <label for="cryptomode">Crypto-Bro mode</label>
+            <label class="switch">
+                <input type="checkbox" class="settings-box" id="cryptoBro" onchange="setSetting(this)">
+                <span class="slider round"></span>
+            </label>
+        </div>
+        <div class="settings-input">
+            <label for="cryptomode">Hint every 10 tries</label>
+            <label class="switch">
+                <input type="checkbox" class="settings-box" id="autoHints" onchange="setSetting(this)" disabled>
+                <span class="slider round"></span>
+            </label>
+        </div>
+        <div class="settings-input">
+            <label for="delete-data">Delete all data</label>
+            <input type="image" src="img/delete.svg" onclick="clearSettings()" />   
+        </div>
+    </div>
+
+    <div id="local-clear" class="toast">Local game data cleared</div>
+
+
+    <script src="js/game.js"></script>
+    <script src="js/settings.js"></script>
+</body>
+</html>

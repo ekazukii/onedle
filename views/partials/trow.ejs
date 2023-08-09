@@ -1,0 +1,17 @@
+<tr>
+    <td> <div class="img-ctn"> <img src="data:image/jpeg;base64, <%= char.imgBase64 %>"/> </div> </td>
+    <td class="guess-color-<%= guess.status.color %> <% if(guess.status.direction == "up") { %> guess-direction-higher <% } %> <% if(guess.status.direction == "down") { %> guess-direction-lower<% } %>" > <%= char.status %> </td>
+    <td class="guess-color-<%= guess.firstChap.color %> <% if(guess.firstChap.direction == "up") { %> guess-direction-higher <% } %> <% if(guess.firstChap.direction == "down") { %> guess-direction-lower<% } %>" > <%= char.firstChap %> </td>
+    <td class="guess-color-<%= guess.origin.color %> <% if(guess.origin.direction == "up") { %> guess-direction-higher <% } %> <% if(guess.origin.direction == "down") { %> guess-direction-lower<% } %>" > <%= char.origin %> </td>
+    <td class="guess-color-<%= guess.age.color %> <% if(guess.age.direction == "up") { %> guess-direction-higher <% } %> <% if(guess.age.direction == "down") { %> guess-direction-lower<% } %>" > <%= char.age %> </td>
+    <td class="guess-color-<%= guess.dftype.color %> <% if(guess.dftype.direction == "up") { %> guess-direction-higher <% } %> <% if(guess.dftype.direction == "down") { %> guess-direction-lower<% } %>" > <%- char.dftype && char.dftype.join("<br />") %> </td>
+    <td class="guess-color-<%= guess.bounty.color %> <% if(guess.bounty.direction == "up") { %> guess-direction-higher <% } %> <% if(guess.bounty.direction == "down") { %> guess-direction-lower<% } %>" > 
+        <% if(char.btcBounty && cryptoBroMode) { %>
+            <%= char.btcBounty.toPrecision(5) %> 
+            <span id="btc-logo">₿</span>
+        <% } else if(char.bounty) { %>
+            <%= char.bounty.toLocaleString() %>
+        <% } %>
+    </td>
+    <td class="guess-color-<%= guess.occupation.color %> <% if(guess.occupation.direction == "up") { %> guess-direction-higher <% } %> <% if(guess.occupation.direction == "down") { %> guess-direction-lower<% } %>" > <%- char.occupation && char.occupation.join("<br />") %> </td>
+</tr>
