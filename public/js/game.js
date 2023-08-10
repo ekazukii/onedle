@@ -26,6 +26,7 @@ async function handleWin() {
 async function backupGuesses() {
   localStorage.setItem('tableHTML', document.getElementById('tbody').innerHTML);
   localStorage.setItem('character-list', document.getElementById('character-list').innerHTML);
+  localStorage.setItem('tableHTMLDate', new Date().toISOString().slice(0, 10));
 }
 
 async function submitGuess(event) {
@@ -53,27 +54,23 @@ async function submitGuess(event) {
 
 async function initGame() {
   const win = localStorage.getItem('win');
+
+  const tableHTMLDate = localStorage.getItem('tableHTMLDate');
+  const tableHTML = localStorage.getItem('tableHTML');
+  const characterList = localStorage.getItem('character-list');
+  if (tableHTMLDate === new Date().toISOString().slice(0, 10)) {
+    if (tableHTML) document.getElementById('tbody').innerHTML = tableHTML;
+    if (characterList) document.getElementById('character-list').innerHTML = characterList;
+  }
+
   // if exist and same day
   if (win && win === new Date().toISOString().slice(0, 10)) {
-    const tableHTML = localStorage.getItem('tableHTML');
-    document.getElementById('tbody').innerHTML = tableHTML;
     document.getElementById('win-message').classList.add('active');
     return;
   }
 
   const game = document.getElementById('interactive-game');
   game.classList.add('active');
-
-  const characterList = localStorage.getItem('character-list');
-  const tableHTML = localStorage.getItem('tableHTML');
-
-  if (tableHTML) {
-    document.getElementById('tbody').innerHTML = tableHTML;
-  }
-
-  if (characterList) {
-    document.getElementById('character-list').innerHTML = characterList;
-  }
 }
 
 initGame();
