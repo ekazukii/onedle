@@ -20,6 +20,9 @@
   --primary-color: #3864c1;
   --icon-size: 28px;
   font-family: anime-ace;
+  --error-color: rgb(242, 74, 74);
+  --partial-color: rgb(233, 178, 77);
+  --correct-color: rgb(54, 192, 54);
 }
 
 #btc-logo {
@@ -174,15 +177,15 @@ td {
 }
 
 .guess-color-red {
-  background-color: rgb(242, 74, 74);
+  background-color: var(--error-color);
 }
 
 .guess-color-orange {
-  background-color: rgb(233, 178, 77);
+  background-color: var(--partial-color);
 }
 
 .guess-color-green {
-  background-color: rgb(54, 192, 54);
+  background-color: var(--correct-color);
 }
 
 .guess-direction-higher::after {
@@ -250,6 +253,34 @@ td {
     transform: translateX(-5em);
     visibility: hidden;
   }
+}
+
+#legends {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 4rem;
+  font-size: 0.8rem;
+}
+
+.exsquare {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 4.5rem;
+  height: 4.5rem;
+  aspect-ratio: 1;
+  margin: 0.4rem;
+  padding: 0.6rem;
+}
+
+.exsquare.error {
+  background-color: rgb(242, 74, 74);
+}
+
+.exsquare.success {
+  background-color: rgb(54, 192, 54);
 }
 
 footer {
