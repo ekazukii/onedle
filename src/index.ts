@@ -7,6 +7,7 @@ import { createGuess } from './characters.js';
 import { schedule } from 'node-cron';
 import seedrandom from 'seedrandom';
 import fetch from 'node-fetch';
+import { addWinner, getWinners } from './redis.js';
 
 const charactersMap = cat1 as { [key: string]: Character };
 const initialSeed = process.env.SEED || Math.random().toString();
@@ -22,7 +23,6 @@ for (const entry of entriesList) {
 }
 
 let dailyChar: Character;
-let dailyWinners = 0;
 
 const resetDailyChamp = async () => {
   const today = new Date();
@@ -76,8 +76,9 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(express.static('public'));
 
-app.get('/', (req, res) => {
-  res.render('index', { entries: entriesList, winners: dailyWinners });
+app.get('/', async (req, res) => {
+  const winners = await getWinners();
+  res.render('index', { entries: entriesList, winners });
 });
 
 app.post('/htmx/guess', async (req, res) => {
@@ -95,7 +96,7 @@ app.post('/htmx/guess', async (req, res) => {
   }
   const guess = createGuess(char, dailyChar);
   if (guess.ename.color === 'green') {
-    dailyWinners++;
+    addWinner();
   } else {
     res.status(206);
   }
