@@ -33,7 +33,7 @@ body,
 #page {
   margin: 0;
   overflow-x: hidden;
-  min-height: 100vh;
+  min-height: 95vh;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -101,14 +101,82 @@ main button {
 
 main input {
   height: 2rem;
-  width: 16rem;
+  width: 20rem;
   font-family: anime-ace;
 }
 
 form {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
+}
+
+#select-ctn {
+  position: relative;
+  background-color: rgb(203, 203, 203);
+}
+
+#select-ctn:not(:focus-within) #autocomplete-ctn:not(:hover) {
+  display: none;
+}
+
+#autocomplete-ctn {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: rgb(235, 235, 235);
+  border: 1px solid #ccc;
+  padding: 10px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 1; /* Ensure the popover appears above other content */
+  width: 21.6rem;
+}
+
+#autocomplete-list {
+  display: flex !important;
+  justify-content: flex-start;
+  flex-direction: column;
+  width: 100%;
+  padding: 0;
+  max-height: 20rem;
+  overflow: scroll;
+}
+
+#autocomplete-list > li {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+#autocomplete-list > li:hover {
+  background-color: rgb(226, 226, 226);
+  cursor: pointer;
+}
+
+#autocomplete-list,
+#autocomplete-list > li {
+  text-indent: 0;
+  list-style-type: none;
+}
+
+#autocomplete-list .img-auto-ctn {
+  margin: 0.4rem;
+  height: 4rem;
+  width: 4rem;
+  overflow: hidden;
+  position: relative;
+}
+
+#autocomplete-list img {
+  display: block;
+  width: 100%;
+  height: auto;
+  position: absolute;
+  top: 0;
+
+  min-width: 4rem;
+  min-height: 4rem;
 }
 
 #validate-icon {

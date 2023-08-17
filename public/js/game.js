@@ -39,6 +39,7 @@ async function submitGuess(event) {
 
   document.querySelector('option[value="' + input.value + '"]').remove();
   input.value = '';
+  resetGuess();
 
   const data = await fetch('/htmx/guess', {
     method: 'POST',
@@ -86,3 +87,47 @@ function closeHelp() {
   document.getElementById('page').classList.remove('blur');
   document.getElementById('help-modal').classList.remove('open');
 }
+
+// --------- AUTOCOMPLETE ------------
+
+function nameToImage(ename) {
+  return `img/chars/${ename.replace(/\s/g, '_').replace(/\//g, '_')}.jpeg`;
+}
+
+function changeGuess(event) {
+  const value = event.target.value;
+  const options = document.querySelectorAll('#character-list option');
+  const optionList = [...options].map(option => option.value);
+
+  const filteredOptions = optionList.filter(option => option.toLowerCase().includes(value.toLowerCase()));
+
+  setAutocomplete(filteredOptions);
+}
+
+function setAutocomplete(filteredOptions) {
+  const list = document.getElementById('autocomplete-list');
+  const items = filteredOptions.map(option => {
+    const item = document.createElement('li');
+    const image = document.createElement('img');
+    const text = document.createElement('span');
+    const imageCtn = document.createElement('div');
+    text.innerHTML = option;
+    image.src = nameToImage(option);
+    imageCtn.classList.add('img-auto-ctn');
+    imageCtn.appendChild(image);
+    item.appendChild(imageCtn);
+    item.appendChild(text);
+    item.addEventListener('click', function () {
+      document.getElementById('character').value = option;
+      list.innerHTML = '';
+    });
+    return item;
+  });
+  list.innerHTML = '';
+  items.forEach(item => list.appendChild(item));
+}
+
+function resetGuess() {
+  changeGuess({ target: { value: '' } });
+}
+resetGuess();

@@ -26,11 +26,16 @@
                 </section>
                 <section id="game">
                     <div id="interactive-game">
-                        <p>Guess the today's One Piece character</p>
+                        <p>Guess today's One Piece character</p>
                         <div id="ctn-input">
                             <form id="form">
-                                <input type="text" id="character" name="character" list="character-list" onsubmit="submitGuess(event)" placeholder="Type a one piece character"/>
-                                <button onclick="submitGuess(event)">
+                                <div id="select-ctn">
+                                    <input type="text" id="character" name="character" autocomplete="off" onsubmit="submitGuess(event)" oninput="changeGuess(event)" placeholder="Type a one piece character"/>
+                                    <div id="autocomplete-ctn">
+                                        <ul id="autocomplete-list"></ul>
+                                    </div>
+                                </div>
+                                <button id="submit-char" onclick="submitGuess(event)">
                                     <img src="img/arrowdown.svg" id="validate-icon"/>
                                 </button>
                             </form>
@@ -44,9 +49,10 @@
 
                     <datalist id="character-list">
                         <% for (char of entries) { %>
-                            <option value="<%= char.ename %>"> <%= char.ename %> </option>
+                            <option value="<%= char.ename %>"><%= char.ename %></option>
                         <% } %>
                     </datalist>
+
                     <div id="gametable-ctn">
                         <table>
                             <thead>
@@ -134,14 +140,14 @@
         <h2>Help</h2>
         <div class="separated-text">
             <div>
-                <p>Onedle is an online game inspired by Wordle and Loldle, the goal is to find the today's character by entering the name of other One Piece character, it will highlight its similarities with the today's character to help you find it.</p>
+                <p>Onedle is an online game inspired by Wordle and Loldle, the goal is to find today's character by entering the name of other One Piece character, it will highlight its similarities with today's character to help you find it.</p>
             </div>
             <div>
-                <p>The color of the cell indicates if the character has the exact same properties than the today's character.</p>
-                <p>A green cell means that the two characters has the same "type" (Both only pirates for example). </p>
-                <p>An orange cell means that the two characters shares some common properties. For example one is a pirate captain and the other one is only a pirate.</p>
-                <p>A red cell means that the two characters has no properties in common. For example one is a Pirate and the other a Cipher Pol agent.</p>
-                <p>For the bounty, age and first apparition properties an arrow indicates if the todays character value is higher or lower. For example 47↑ means that the today's character is older than 47.</p>
+                <p>The color of the cell indicates if the character have the exact same properties as today's character.</p>
+                <p>A green cell means that the two characters have the same "type" (Both only pirates for example). </p>
+                <p>An orange cell means that the two characters share some common properties. For example one is a pirate captain and the other one is only a pirate.</p>
+                <p>A red cell means that the two characters have no properties in common. For example one is a Pirate and the other a Cipher Pol agent.</p>
+                <p>For the bounty, age and first apparition properties an arrow indicates if the todays character value is higher or lower. For example 47↑ means that today's character is older than 47.</p>
             </div>
             <div>
                 <p>All the data has been gathered from the <a href="onepiece.fandom.com/wiki">One Piece fandom</a> using some code from <a href="https://github.com/dilaouid/FandomScraper">FandomScraper</a></p>
