@@ -1,17 +1,10 @@
 {
   "https://onepiece.fandom.com/wiki/Absalom": {
     "ename": "Absalom",
-    "affiliation": [
-      "Thriller Bark Pirates"
-    ],
-    "occupation": [
-      "Reporter",
-      "Soldier"
-    ],
+    "affiliation": ["Thriller Bark Pirates"],
+    "occupation": ["Journalist", "Soldier"],
     "origin": "West Blue",
-    "alias": [
-      "\"Absa\" )"
-    ],
+    "alias": ["\"Absa\" )"],
     "epithet": "Absalom of the Graveyard )",
     "status": "Deceased",
     "age": 34,
@@ -19,9 +12,7 @@
     "height": 195,
     "blood type": "F",
     "dfname": "Suke Suke no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/5/56/Absalom_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230101154942",
     "category": 1,
     "firstChap": 444,
@@ -29,16 +20,8 @@
   },
   "https://onepiece.fandom.com/wiki/Aladine": {
     "ename": "Aladdin",
-    "affiliation": [
-      "Sun Pirates",
-      "Ryugu Kingdom"
-    ],
-    "occupation": [
-      "Pirate",
-      "Doctor",
-      "Soldier",
-      "Slave"
-    ],
+    "affiliation": ["Sun Pirates", "Ryugu Kingdom"],
+    "occupation": ["Pirate", "Doctor", "Soldier", "Slave"],
     "origin": "Grand Line",
     "status": "Alive",
     "age": 46,
@@ -52,16 +35,8 @@
   },
   "https://onepiece.fandom.com/wiki/Alvida": {
     "ename": "Alvida",
-    "affiliation": [
-      "Cross Guild",
-      "Buggy's Delivery, Buggy and Alvida Alliance",
-      "Buggy Pirates",
-      "Alvida Pirates"
-    ],
-    "occupation": [
-      "Pirate",
-      "Captain"
-    ],
+    "affiliation": ["Cross Guild", "Buggy's Delivery, Buggy and Alvida Alliance", "Buggy Pirates", "Alvida Pirates"],
+    "occupation": ["Pirate", "Captain"],
     "origin": "East Blue",
     "residence": "Karai Bari Island; Goat Island (former)",
     "epithet": "\"Iron Mace\" , English versions: \"Iron Club\")",
@@ -72,9 +47,7 @@
     "blood type": "S",
     "bounty": 5000000,
     "dfname": "Sube Sube no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/c/cd/Alvida_Anime_Infobox.png/revision/latest/scale-to-width-down/288?cb=20221116234952",
     "category": 1,
     "firstChap": 2,
@@ -82,37 +55,21 @@
   },
   "https://onepiece.fandom.com/wiki/Aramaki": {
     "ename": "Aramaki",
-    "affiliation": [
-      "Marines"
-    ],
-    "occupation": [
-      "Admiral"
-    ],
-    "alias": [
-      "Ryokugyu , literally meaning \"Green Bull\")"
-    ],
+    "affiliation": ["Marines"],
+    "occupation": ["Admiral", "Marine Officer"],
+    "alias": ["Ryokugyu , literally meaning \"Green Bull\")"],
     "status": "Alive",
     "bounty": 3000000000,
     "dfname": "Mori Mori no Mi",
-    "dftype": [
-      "Logia"
-    ],
+    "dftype": ["Logia"],
     "category": 1,
     "firstChap": 905,
     "firstEpisode": 882
   },
   "https://onepiece.fandom.com/wiki/Arlong": {
     "ename": "Arlong",
-    "affiliation": [
-      "Arlong Pirates",
-      "Sun Pirates",
-      "Impel Down"
-    ],
-    "occupation": [
-      "Pirate",
-      "Captain",
-      "Prisoner"
-    ],
+    "affiliation": ["Arlong Pirates", "Sun Pirates", "Impel Down"],
+    "occupation": ["Pirate", "Captain", "Prisoner"],
     "origin": "Grand Line",
     "residence": "Fish-Man District (former)<br style=\"clear:both\"> Arlong Park (former)",
     "epithet": "\"Arlong the Saw\" ) (English versions: \"Saw-Tooth Arlong\")",
@@ -129,20 +86,11 @@
   },
   "https://onepiece.fandom.com/wiki/Ashura_Doji": {
     "ename": "Ashura Doji",
-    "affiliation": [
-      "Mt. Atama Thieves",
-      "Kozuki Family",
-      "Nine Red Scabbards"
-    ],
-    "occupation": [
-      "Bandit",
-      "Samurai"
-    ],
+    "affiliation": ["Mt. Atama Thieves", "Kozuki Family", "Nine Red Scabbards"],
+    "occupation": ["Bandit", "Samurai"],
     "origin": "Grand Line",
     "residence": "Wano Country (Kuri: Mt. Atama)",
-    "alias": [
-      "Shutenmaru )"
-    ],
+    "alias": ["Shutenmaru )"],
     "epithet": "Strongest Monster of Kuri , VIZ Media: Strongest Monster in Kuri)",
     "status": "Deceased",
     "birth": "April 10th",
@@ -155,23 +103,11 @@
   },
   "https://onepiece.fandom.com/wiki/Bartholomew_Kuma": {
     "ename": "Bartholomew Kuma",
-    "affiliation": [
-      "Revolutionary Army",
-      "Seven Warlords of the Sea",
-      "Sorbet Kingdom",
-      "Slavery"
-    ],
-    "occupation": [
-      "Revolutionary Officer",
-      "Pirate",
-      "Slave",
-      "Warlord of the Sea"
-    ],
+    "affiliation": ["Revolutionary Army", "Seven Warlords of the Sea", "Sorbet Kingdom", "Slavery"],
+    "occupation": ["Revolutionary Officer", "Pirate", "Slave", "Warlord of the Sea"],
     "origin": "South Blue",
     "residence": "Sorbet Kingdom (former); Baltigo (former)",
-    "alias": [
-      "PX-0 )"
-    ],
+    "alias": ["PX-0 )"],
     "epithet": "\"Tyrant\" )",
     "status": "Alive",
     "age": 47,
@@ -180,9 +116,7 @@
     "blood type": "X",
     "bounty": 296000000,
     "dfname": "Nikyu Nikyu no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/8/8d/Bartholomew_Kuma_Anime_Infobox.png/revision/latest/scale-to-width-down/297?cb=20221012030835",
     "category": 1,
     "firstChap": 233,
@@ -190,16 +124,8 @@
   },
   "https://onepiece.fandom.com/wiki/Bartolomeo": {
     "ename": "Bartolomeo",
-    "affiliation": [
-      "Barto Club",
-      "his own Mafia Family",
-      "Straw Hat Grand Fleet"
-    ],
-    "occupation": [
-      "Captain",
-      "Pirate",
-      "Mafia Leader"
-    ],
+    "affiliation": ["Barto Club", "his own Mafia Family", "Straw Hat Grand Fleet"],
+    "occupation": ["Captain", "Pirate", "Mafia Leader"],
     "origin": "East Blue",
     "epithet": "\"Bartolomeo the Cannibal\" , Viz: \"Man-Eater Bartolomeo\")",
     "status": "Alive",
@@ -209,9 +135,7 @@
     "blood type": "X",
     "bounty": 200000000,
     "dfname": "Bari Bari no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/e/eb/Bartolomeo_Anime_Infobox.png/revision/latest/scale-to-width-down/220?cb=20221027202808",
     "category": 1,
     "firstChap": 705,
@@ -219,14 +143,8 @@
   },
   "https://onepiece.fandom.com/wiki/Basil_Hawkins": {
     "ename": "Basil Hawkins",
-    "affiliation": [
-      "Hawkins Pirates",
-      "Beasts Pirates"
-    ],
-    "occupation": [
-      "Pirate",
-      "Captain"
-    ],
+    "affiliation": ["Hawkins Pirates", "Beasts Pirates"],
+    "occupation": ["Pirate", "Captain"],
     "origin": "North Blue",
     "epithet": "Magician )",
     "status": "Unknown",
@@ -236,9 +154,7 @@
     "blood type": "S",
     "bounty": 320000000,
     "dfname": "Wara Wara no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/f/f8/Basil_Hawkins_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20220610143957",
     "category": 1,
     "firstChap": 498,
@@ -246,12 +162,8 @@
   },
   "https://onepiece.fandom.com/wiki/Belo_Betty": {
     "ename": "Belo Betty",
-    "affiliation": [
-      "Revolutionary Army"
-    ],
-    "occupation": [
-      "Revolutionary Officer"
-    ],
+    "affiliation": ["Revolutionary Army"],
+    "occupation": ["Revolutionary Officer"],
     "origin": "East Blue",
     "residence": "Baltigo (former); Momoiro Island",
     "status": "Alive",
@@ -261,9 +173,7 @@
     "blood type": "XF",
     "bounty": 457000000,
     "dfname": "Kobu Kobu no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/d/dd/Belo_Betty_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20221117025316",
     "category": 1,
     "firstChap": 904,
@@ -271,14 +181,8 @@
   },
   "https://onepiece.fandom.com/wiki/Bellamy": {
     "ename": "Bellamy",
-    "affiliation": [
-      "Donquixote Pirates",
-      "Bellamy Pirates"
-    ],
-    "occupation": [
-      "Pirate",
-      "Captain"
-    ],
+    "affiliation": ["Donquixote Pirates", "Bellamy Pirates"],
+    "occupation": ["Pirate", "Captain"],
     "residence": "Dressrosa (former)<br>Notice (former)",
     "epithet": "\"Bellamy the Hyena\" );<br>\"Deadly Bullet of Dressrosa\" );<br>\"The Big-Time Rookie\" )",
     "status": "Alive",
@@ -288,9 +192,7 @@
     "blood type": "F",
     "bounty": 195000000,
     "dfname": "Bane Bane no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/2/27/Bellamy_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/173?cb=20230116235201",
     "category": 1,
     "firstChap": 222,
@@ -298,12 +200,8 @@
   },
   "https://onepiece.fandom.com/wiki/Bell-m%C3%A8re": {
     "ename": "Belle-Mère",
-    "affiliation": [
-      "Marines"
-    ],
-    "occupation": [
-      "Marine Officer"
-    ],
+    "affiliation": ["Marines"],
+    "occupation": ["Marine Officer"],
     "origin": "East Blue",
     "residence": "Cocoyasi Village",
     "status": "Deceased",
@@ -317,13 +215,8 @@
   },
   "https://onepiece.fandom.com/wiki/Benn_Beckman": {
     "ename": "Benn Beckman",
-    "affiliation": [
-      "Red Hair Pirates"
-    ],
-    "occupation": [
-      "Pirate",
-      "First Mate"
-    ],
+    "affiliation": ["Red Hair Pirates"],
+    "occupation": ["Pirate", "First Mate"],
     "origin": "North Blue",
     "status": "Alive",
     "age": 50,
@@ -336,19 +229,11 @@
     "firstEpisode": 4
   },
   "https://onepiece.fandom.com/wiki/Bentham": {
-    "ename": "Bentham",
-    "affiliation": [
-      "Newkama Land",
-      "Baroque Works"
-    ],
-    "occupation": [
-      "Officer Agent",
-      "Prisoner"
-    ],
+    "ename": "Bentham/Bon Clay",
+    "affiliation": ["Newkama Land", "Baroque Works"],
+    "occupation": ["Bandit", "Prisoner"],
     "origin": "East Blue",
-    "alias": [
-      "\"Mr. 2 Bon Kurei\" , Official Translation: Mr. 2 Bon Clay)"
-    ],
+    "alias": ["\"Mr. 2 Bon Kurei\" , Official Translation: Mr. 2 Bon Clay)"],
     "epithet": "\"Bentham of the Wild\" )",
     "status": "Alive",
     "age": 32,
@@ -357,9 +242,7 @@
     "blood type": "F",
     "bounty": 32000000,
     "dfname": "Mane Mane no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/0/0e/Bentham_Anime_Infobox.png/revision/latest/scale-to-width-down/281?cb=20160929070742",
     "category": 1,
     "firstChap": 129,
@@ -367,12 +250,8 @@
   },
   "https://onepiece.fandom.com/wiki/Bepo": {
     "ename": "Bepo",
-    "affiliation": [
-      "Heart Pirates"
-    ],
-    "occupation": [
-      "Pirate"
-    ],
+    "affiliation": ["Heart Pirates"],
+    "occupation": ["Pirate"],
     "origin": "Zou",
     "residence": "Zou (former);<br>Swallow Island (former)",
     "status": "Alive",
@@ -388,12 +267,8 @@
   },
   "https://onepiece.fandom.com/wiki/Black_Maria": {
     "ename": "Black Maria",
-    "affiliation": [
-      "Beasts Pirates"
-    ],
-    "occupation": [
-      "Pirate"
-    ],
+    "affiliation": ["Beasts Pirates"],
+    "occupation": ["Pirate"],
     "origin": "Wano Country",
     "residence": "Onigashima",
     "status": "Alive",
@@ -403,10 +278,7 @@
     "blood type": "S",
     "bounty": 480000000,
     "dfname": "Kumo Kumo no Mi, Model: Rosamygale Grauvogeli",
-    "dftype": [
-      "Zoan",
-      "Ancient Zoan"
-    ],
+    "dftype": ["Zoan", "Ancient Zoan"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Black_Maria_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20210808144206",
     "category": 1,
     "firstChap": 977,
@@ -414,13 +286,8 @@
   },
   "https://onepiece.fandom.com/wiki/Blueno": {
     "ename": "Blueno",
-    "affiliation": [
-      "CP0",
-      "CP9"
-    ],
-    "occupation": [
-      "Cipher Pol Agent"
-    ],
+    "affiliation": ["CP0", "CP9"],
+    "occupation": ["Cipher Pol Agent"],
     "origin": "North Blue",
     "status": "Alive",
     "age": 32,
@@ -428,9 +295,7 @@
     "height": 258,
     "blood type": "X",
     "dfname": "Doa Doa no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/2/2b/Blueno_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/328?cb=20230515040029",
     "category": 1,
     "firstChap": 325,
@@ -438,18 +303,8 @@
   },
   "https://onepiece.fandom.com/wiki/Boa_Hancock": {
     "ename": "Boa Hancock",
-    "affiliation": [
-      "Kuja",
-      "Kuja Pirates",
-      "Seven Warlords of the Sea",
-      "Slavery"
-    ],
-    "occupation": [
-      "Captain",
-      "Pirate",
-      "Warlord of the Sea",
-      "Slave"
-    ],
+    "affiliation": ["Kuja", "Kuja Pirates", "Seven Warlords of the Sea", "Slavery"],
+    "occupation": ["Captain", "Pirate", "Warlord of the Sea", "Slave"],
     "origin": "Calm Belt",
     "residence": "Amazon Lily",
     "epithet": "\"Snake Princess\" );<br>\"Pirate Empress\" )",
@@ -460,27 +315,18 @@
     "blood type": "S",
     "bounty": 1659000000,
     "dfname": "Mero Mero no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Boa_Hancock_Anime_Infobox.png/revision/latest/scale-to-width-down/242?cb=20230126022456",
     "category": 1,
     "firstChap": 516,
     "firstEpisode": 409
   },
   "https://onepiece.fandom.com/wiki/Borsalino": {
-    "ename": "Borsalino",
-    "affiliation": [
-      "Marines"
-    ],
-    "occupation": [
-      "Admiral",
-      "Vice Admiral"
-    ],
+    "ename": "Borsalino/Kizaru",
+    "affiliation": ["Marines"],
+    "occupation": ["Admiral", "Vice Admiral", "Marine Officer"],
     "origin": "North Blue",
-    "alias": [
-      "Kizaru , literally meaning \"Yellow Monkey\")"
-    ],
+    "alias": ["Kizaru , literally meaning \"Yellow Monkey\")"],
     "status": "Alive",
     "age": 58,
     "birth": "November 23rd",
@@ -488,9 +334,7 @@
     "blood type": "XF",
     "bounty": 3000000000,
     "dfname": "Pika Pika no Mi",
-    "dftype": [
-      "Logia"
-    ],
+    "dftype": ["Logia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/1/14/Borsalino_Anime_Infobox.png/revision/latest/scale-to-width-down/248?cb=20190603023753",
     "category": 1,
     "firstChap": 504,
@@ -498,13 +342,8 @@
   },
   "https://onepiece.fandom.com/wiki/Brogy": {
     "ename": "Broggy",
-    "affiliation": [
-      "Giant Warrior Pirates"
-    ],
-    "occupation": [
-      "Captain",
-      "Pirate"
-    ],
+    "affiliation": ["Giant Warrior Pirates"],
+    "occupation": ["Captain", "Pirate"],
     "origin": "Grand Line",
     "residence": "Elbaf<br>Little Garden (former)",
     "epithet": "Brogy the Red Ogre )",
@@ -527,17 +366,10 @@
       "Rumbar Pirates",
       "Ninja-Pirate-Mink-Samurai Alliance"
     ],
-    "occupation": [
-      "Pirate",
-      "Musician",
-      "Mugiwara"
-    ],
+    "occupation": ["Pirate", "Musician", "Mugiwara"],
     "origin": "West Blue",
     "residence": "Florian Triangle (former); Namakura Island (former, temporary)",
-    "alias": [
-      "\"Hone-kichi\" , English versions: Bonekichi);",
-      "\"The Starving Skeleton\" )"
-    ],
+    "alias": ["\"Hone-kichi\" , English versions: Bonekichi);", "\"The Starving Skeleton\" )"],
     "epithet": "\"Humming Brook\" );<br>\"Soul King\" )",
     "status": "Alive",
     "age": 90,
@@ -546,9 +378,7 @@
     "blood type": "X",
     "bounty": 383000000,
     "dfname": "Yomi Yomi no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/4/41/Brook_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/214?cb=20161016160925",
     "category": 1,
     "firstChap": 442,
@@ -566,13 +396,7 @@
       "Roger Pirates",
       "Impel Down"
     ],
-    "occupation": [
-      "Captain",
-      "Pirate",
-      "Emperor",
-      "Warlord of the Sea",
-      "Prisoner"
-    ],
+    "occupation": ["Captain", "Pirate", "Emperor", "Warlord of the Sea", "Prisoner"],
     "origin": "Grand Line",
     "residence": "Karai Bari Island;<br>Orange Town (former)",
     "epithet": "\"Buggy the Clown\" )<br>\"Buggy the Star Clown\" , English versions: Buggy the Genius Jester)",
@@ -583,9 +407,7 @@
     "blood type": "F",
     "bounty": 318900000015000000,
     "dfname": "Bara Bara no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/f/f7/Buggy_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20220710142434",
     "category": 1,
     "firstChap": 9,
@@ -601,15 +423,10 @@
       "Marines and World Government",
       "MADS"
     ],
-    "occupation": [
-      "Scientist"
-    ],
+    "occupation": ["Scientist", "Bandit"],
     "origin": "Grand Line",
     "residence": "Punk Hazard (Third Research Institute)(former)",
-    "alias": [
-      "\"Cedar\" )",
-      "\"'Gangster' Gastino\" )"
-    ],
+    "alias": ["\"Cedar\" )", "\"'Gangster' Gastino\" )"],
     "epithet": "\"Master\" )",
     "status": "Alive",
     "age": 55,
@@ -618,9 +435,7 @@
     "blood type": "X",
     "bounty": 300000000,
     "dfname": "Gasu Gasu no Mi",
-    "dftype": [
-      "Logia"
-    ],
+    "dftype": ["Logia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/a/a6/Caesar_Clown_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20221101011307",
     "category": 1,
     "firstChap": 658,
@@ -628,13 +443,8 @@
   },
   "https://onepiece.fandom.com/wiki/Camie": {
     "ename": "Camie",
-    "affiliation": [
-      "Takoyaki 8, Mermaid Cafe"
-    ],
-    "occupation": [
-      "Fashion designing apprentice",
-      "Waitress at Mermaid Cafe"
-    ],
+    "affiliation": ["Takoyaki 8, Mermaid Cafe"],
+    "occupation": ["Fashion designing apprentice", "Waitress at Mermaid Cafe"],
     "origin": "Grand Line",
     "status": "Alive",
     "age": 18,
@@ -648,14 +458,8 @@
   },
   "https://onepiece.fandom.com/wiki/Capone_Bege": {
     "ename": "Capone Bege",
-    "affiliation": [
-      "Fire Tank Pirates",
-      "Big Mom Pirates"
-    ],
-    "occupation": [
-      "Pirate",
-      "Captain"
-    ],
+    "affiliation": ["Fire Tank Pirates", "Big Mom Pirates"],
+    "occupation": ["Pirate", "Captain", "Mafia Leader"],
     "origin": "West Blue",
     "epithet": "\"Gang\" )",
     "status": "Alive",
@@ -665,9 +469,7 @@
     "blood type": "S",
     "bounty": 350000000,
     "dfname": "Shiro Shiro no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/9/99/Capone_Bege_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/306?cb=20160911163015",
     "category": 1,
     "firstChap": 498,
@@ -675,14 +477,8 @@
   },
   "https://onepiece.fandom.com/wiki/Caribou": {
     "ename": "Caribou",
-    "affiliation": [
-      "Caribou Pirates",
-      "Fake Straw Hat Crew"
-    ],
-    "occupation": [
-      "Captain",
-      "Pirate"
-    ],
+    "affiliation": ["Caribou Pirates", "Fake Straw Hat Crew"],
+    "occupation": ["Captain", "Pirate"],
     "origin": "North Blue",
     "epithet": "\"Wet-Haired Caribou\" )",
     "status": "Alive",
@@ -692,9 +488,7 @@
     "blood type": "XF",
     "bounty": 210000000,
     "dfname": "Numa Numa no Mi",
-    "dftype": [
-      "Logia"
-    ],
+    "dftype": ["Logia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/7/76/Caribou_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20221124030700",
     "category": 1,
     "firstChap": 600,
@@ -702,29 +496,18 @@
   },
   "https://onepiece.fandom.com/wiki/Carmel": {
     "ename": "Carmel",
-    "affiliation": [
-      "Underworld",
-      "Sheep's House"
-    ],
-    "occupation": [
-      "Child Trafficker"
-    ],
+    "affiliation": ["Underworld", "Sheep's House"],
+    "occupation": ["Child Trafficker"],
     "origin": "West Blue",
     "residence": "Elbaf (former)<br>Whole Cake Island",
-    "alias": [
-      "Mother Carmel );",
-      "\"Sister Carmel\" );",
-      "\"Mountain Witch\" , Viz: \"Mountain Hag\")"
-    ],
+    "alias": ["Mother Carmel );", "\"Sister Carmel\" );", "\"Mountain Witch\" , Viz: \"Mountain Hag\")"],
     "epithet": "\"Holy Mother\" )",
     "status": "Deceased",
     "birth": "December 21st",
     "height": 185,
     "blood type": "S",
     "dfname": "Soru Soru no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/8/81/Carmel_Anime_Infobox.png/revision/latest/scale-to-width-down/221?cb=20230204190309",
     "category": 1,
     "firstChap": 861,
@@ -732,13 +515,8 @@
   },
   "https://onepiece.fandom.com/wiki/Carrot": {
     "ename": "Carrot",
-    "affiliation": [
-      "Mokomo Dukedom, Inuarashi Musketeer Squad",
-      "Ninja-Pirate-Mink-Samurai Alliance"
-    ],
-    "occupation": [
-      "Musketeer"
-    ],
+    "affiliation": ["Mokomo Dukedom, Inuarashi Musketeer Squad", "Ninja-Pirate-Mink-Samurai Alliance"],
+    "occupation": ["Musketeer"],
     "origin": "Grand Line",
     "residence": "Zou",
     "status": "Alive",
@@ -753,14 +531,8 @@
   },
   "https://onepiece.fandom.com/wiki/Catarina_Devon": {
     "ename": "Catarina Devon",
-    "affiliation": [
-      "Blackbeard Pirates",
-      "Impel Down"
-    ],
-    "occupation": [
-      "Pirate",
-      "Prisoner"
-    ],
+    "affiliation": ["Blackbeard Pirates", "Impel Down"],
+    "occupation": ["Pirate", "Prisoner"],
     "origin": "South Blue",
     "epithet": "\"Crescent Moon Hunter\" )",
     "status": "Alive",
@@ -769,10 +541,7 @@
     "height": 361,
     "blood type": "F",
     "dfname": "Inu Inu no Mi, Model: Kyubi no Kitsune",
-    "dftype": [
-      "Zoan",
-      "Mythical Zoan"
-    ],
+    "dftype": ["Zoan", "Mythical Zoan"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Catarina_Devon_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20200112041332",
     "category": 1,
     "firstChap": 575,
@@ -780,20 +549,11 @@
   },
   "https://onepiece.fandom.com/wiki/Cavendish": {
     "ename": "Cavendish",
-    "affiliation": [
-      "Beautiful Pirates",
-      "Straw Hat Grand Fleet",
-      "Bourgeois Kingdom"
-    ],
-    "occupation": [
-      "Captain",
-      "Prince"
-    ],
+    "affiliation": ["Beautiful Pirates", "Straw Hat Grand Fleet", "Bourgeois Kingdom"],
+    "occupation": ["Captain", "Prince"],
     "origin": "Grand Line",
     "residence": "Bourgeois Kingdom (former)",
-    "alias": [
-      "Hakuba )"
-    ],
+    "alias": ["Hakuba )"],
     "epithet": "\"Cavendish of the White Horse\" , Viz: \"White Knight Cavendish\");<br>\"Pirate Prince\" , Viz: \"Pirate Noble\"; FUNimation: \"Pirate Nobleman\")",
     "status": "Alive",
     "age": 26,
@@ -808,12 +568,8 @@
   },
   "https://onepiece.fandom.com/wiki/Charlos": {
     "ename": "Saint Charlos",
-    "affiliation": [
-      "World Government"
-    ],
-    "occupation": [
-      "World Noble"
-    ],
+    "affiliation": ["World Government"],
+    "occupation": ["World Noble"],
     "origin": "Red Line",
     "residence": "Mary Geoise",
     "status": "Alive",
@@ -828,13 +584,8 @@
   },
   "https://onepiece.fandom.com/wiki/Charlotte_Br%C3%BBl%C3%A9e": {
     "ename": "Charlotte Brulee",
-    "affiliation": [
-      "Charlotte Family",
-      "Big Mom Pirates"
-    ],
-    "occupation": [
-      "Pirate"
-    ],
+    "affiliation": ["Charlotte Family", "Big Mom Pirates"],
+    "occupation": ["Pirate"],
     "origin": "Grand Line",
     "residence": "Whole Cake Island; Mirro-World",
     "status": "Alive",
@@ -843,9 +594,7 @@
     "height": 350,
     "blood type": "S",
     "dfname": "Mira Mira no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/d/d9/Charlotte_Br%C3%BBl%C3%A9e_Anime_Infobox.png/revision/latest/scale-to-width-down/261?cb=20170611174235",
     "category": 1,
     "firstChap": 831,
@@ -853,14 +602,8 @@
   },
   "https://onepiece.fandom.com/wiki/Charlotte_Chiffon": {
     "ename": "Charlotte Chiffon",
-    "affiliation": [
-      "Fire Tank Pirates",
-      "Charlotte Family"
-    ],
-    "occupation": [
-      "Cook",
-      "Pirate"
-    ],
+    "affiliation": ["Fire Tank Pirates", "Charlotte Family"],
+    "occupation": ["Cook", "Pirate"],
     "origin": "Grand Line",
     "residence": "Funwari Island (former)",
     "status": "Alive",
@@ -875,13 +618,8 @@
   },
   "https://onepiece.fandom.com/wiki/Charlotte_Cracker": {
     "ename": "Charlotte Cracker",
-    "affiliation": [
-      "Charlotte Family",
-      "Big Mom Pirates"
-    ],
-    "occupation": [
-      "Pirate"
-    ],
+    "affiliation": ["Charlotte Family", "Big Mom Pirates"],
+    "occupation": ["Pirate"],
     "origin": "Grand Line",
     "residence": "Biscuits Island",
     "epithet": "\"Thousand Arms Cracker\" )<br>\"Biscuit Knight\" )",
@@ -892,9 +630,7 @@
     "blood type": "X",
     "bounty": 860000000,
     "dfname": "Bisu Bisu no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/6/64/Charlotte_Cracker_Anime_Infobox.png/revision/latest/scale-to-width-down/298?cb=20170730021804",
     "category": 1,
     "firstChap": 835,
@@ -902,14 +638,8 @@
   },
   "https://onepiece.fandom.com/wiki/Charlotte_Katakuri": {
     "ename": "Charlotte Katakuri",
-    "affiliation": [
-      "Charlotte Family",
-      "Big Mom Pirates"
-    ],
-    "occupation": [
-      "Pirate",
-      "First Mate"
-    ],
+    "affiliation": ["Charlotte Family", "Big Mom Pirates"],
+    "occupation": ["Pirate", "First Mate"],
     "origin": "Grand Line",
     "residence": "Komugi Island",
     "status": "Alive",
@@ -919,32 +649,19 @@
     "blood type": "XF",
     "bounty": 1057000000,
     "dfname": "Mochi Mochi no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/2/2e/Charlotte_Katakuri_Anime_Infobox.png/revision/latest/scale-to-width-down/333?cb=20230204155539",
     "category": 1,
     "firstChap": 860,
     "firstEpisode": 825
   },
   "https://onepiece.fandom.com/wiki/Charlotte_Linlin": {
-    "ename": "Charlotte Linlin",
-    "affiliation": [
-      "Big Mom Pirates",
-      "Rocks Pirates",
-      "Four Emperors",
-      "Charlotte Family"
-    ],
-    "occupation": [
-      "Pirate",
-      "Captain",
-      "Emperor"
-    ],
+    "ename": "Charlotte Linlin/Big Mom",
+    "affiliation": ["Big Mom Pirates", "Rocks Pirates", "Four Emperors", "Charlotte Family"],
+    "occupation": ["Pirate", "Captain", "Emperor"],
     "origin": "Grand Line",
     "residence": "Whole Cake Island<br>Elbaf (former)",
-    "alias": [
-      "\"O-Lin\" , Viz: \"Olin\")"
-    ],
+    "alias": ["\"O-Lin\" , Viz: \"Olin\")"],
     "epithet": "\"Big Mom\" ) (FUNimation Subs (formerly): Big Mam)<br>\"Evil Spirit\" )",
     "status": "Unknown",
     "age": 68,
@@ -953,10 +670,7 @@
     "blood type": "X",
     "bounty": 4388000000,
     "dfname": "Soru Soru no Mi",
-    "dftype": [
-      "Paramecia",
-      "Special Paramecia"
-    ],
+    "dftype": ["Paramecia", "Special Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/d/d8/Charlotte_Linlin_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20180423150804",
     "category": 1,
     "firstChap": 651,
@@ -964,13 +678,8 @@
   },
   "https://onepiece.fandom.com/wiki/Charlotte_Perospero": {
     "ename": "Charlotte Perospero",
-    "affiliation": [
-      "Charlotte Family",
-      "Big Mom Pirates"
-    ],
-    "occupation": [
-      "Pirate"
-    ],
+    "affiliation": ["Charlotte Family", "Big Mom Pirates"],
+    "occupation": ["Pirate"],
     "origin": "Grand Line",
     "residence": "Candy Island",
     "status": "Alive",
@@ -980,9 +689,7 @@
     "blood type": "X",
     "bounty": 700000000,
     "dfname": "Pero Pero no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Charlotte_Perospero_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20211101122146",
     "category": 1,
     "firstChap": 834,
@@ -990,13 +697,8 @@
   },
   "https://onepiece.fandom.com/wiki/Charlotte_Pudding": {
     "ename": "Charlotte Pudding",
-    "affiliation": [
-      "Charlotte Family",
-      "Big Mom Pirates"
-    ],
-    "occupation": [
-      "Pirate"
-    ],
+    "affiliation": ["Charlotte Family", "Big Mom Pirates"],
+    "occupation": ["Pirate"],
     "origin": "Grand Line",
     "residence": "Cacao Island",
     "status": "Alive",
@@ -1005,9 +707,7 @@
     "height": 166,
     "blood type": "XF",
     "dfname": "Memo Memo no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/6/60/Charlotte_Pudding_Anime_Infobox.png/revision/latest/scale-to-width-down/260?cb=20211204134153",
     "category": 1,
     "firstChap": 651,
@@ -1015,21 +715,11 @@
   },
   "https://onepiece.fandom.com/wiki/Crocodile": {
     "ename": "Crocodile",
-    "affiliation": [
-      "Cross Guild",
-      "Seven Warlords of the Sea",
-      "Baroque Works",
-      "Impel Down"
-    ],
-    "occupation": [
-      "Pirate",
-      "Prisoner"
-    ],
+    "affiliation": ["Cross Guild", "Seven Warlords of the Sea", "Baroque Works", "Impel Down"],
+    "occupation": ["Pirate", "Prisoner", "Warlord of the Sea"],
     "origin": "Grand Line",
     "residence": "Rainbase, Arabasta (former)",
-    "alias": [
-      "\"Mr. 0\" )"
-    ],
+    "alias": ["\"Mr. 0\" )"],
     "epithet": "\"Sir Crocodile\" )<br>\"Desert King\" )",
     "status": "Alive",
     "age": 46,
@@ -1038,9 +728,7 @@
     "blood type": "S",
     "bounty": 1965000000,
     "dfname": "Suna Suna no Mi",
-    "dftype": [
-      "Logia"
-    ],
+    "dftype": ["Logia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/f/fd/Crocodile_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230125235528",
     "category": 1,
     "firstChap": 126,
@@ -1048,12 +736,8 @@
   },
   "https://onepiece.fandom.com/wiki/Curly_Dadan": {
     "ename": "Curly Dadan",
-    "affiliation": [
-      "Dadan Family"
-    ],
-    "occupation": [
-      "Bandit"
-    ],
+    "affiliation": ["Dadan Family"],
+    "occupation": ["Bandit"],
     "origin": "East Blue",
     "residence": "Mt. Colubo",
     "status": "Alive",
@@ -1068,19 +752,11 @@
     "firstEpisode": 324
   },
   "https://onepiece.fandom.com/wiki/Daz_Bonez": {
-    "ename": "Daz Bonez",
-    "affiliation": [
-      "Cross Guild",
-      "Baroque Works"
-    ],
-    "occupation": [
-      "Pirate",
-      "Bounty Hunter"
-    ],
+    "ename": "Daz Bonez/Mr. 1",
+    "affiliation": ["Cross Guild", "Baroque Works"],
+    "occupation": ["Pirate", "Bounty Hunter"],
     "origin": "West Blue",
-    "alias": [
-      "\"Mr. 1\" )"
-    ],
+    "alias": ["\"Mr. 1\" )"],
     "epithet": "\"The Killer\" )",
     "status": "Alive",
     "age": 31,
@@ -1089,9 +765,7 @@
     "blood type": "F",
     "bounty": 75000000,
     "dfname": "Supa Supa no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/e/e9/Daz_Bonez_Anime_Infobox.png/revision/latest/scale-to-width-down/233?cb=20221102004113",
     "category": 1,
     "firstChap": 160,
@@ -1107,17 +781,10 @@
       "Seven Warlords of the Sea",
       "Dressrosa"
     ],
-    "occupation": [
-      "Captain",
-      "Pirate",
-      "Prisoner",
-      "World Noble"
-    ],
+    "occupation": ["Captain", "Pirate", "Prisoner", "World Noble"],
     "origin": "Red Line",
     "residence": "Mary Geoise (former);<br>Spider Miles (former);<br>Dressrosa (former)",
-    "alias": [
-      "\"Joker\" )"
-    ],
+    "alias": ["\"Joker\" )"],
     "epithet": "\"Heavenly Yaksha\" , Viz: \"Heavenly Demon\")",
     "status": "Alive",
     "age": 41,
@@ -1126,9 +793,7 @@
     "blood type": "X",
     "bounty": 340000000,
     "dfname": "Ito Ito no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Donquixote_Doflamingo_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20221101232716",
     "category": 1,
     "firstChap": 233,
@@ -1136,29 +801,17 @@
   },
   "https://onepiece.fandom.com/wiki/Donquixote_Rosinante": {
     "ename": "Don Quixote Rocinante",
-    "affiliation": [
-      "Marines",
-      "Donquixote Pirates",
-      "World Government"
-    ],
-    "occupation": [
-      "Marine Commander",
-      "Pirate",
-      "World Noble"
-    ],
+    "affiliation": ["Marines", "Donquixote Pirates", "World Government"],
+    "occupation": ["Marine Officer", "Pirate", "World Noble"],
     "origin": "Red Line",
     "residence": "Mary Geoise (former)<br>Spider Miles (former)",
-    "alias": [
-      "Corazon )"
-    ],
+    "alias": ["Corazon )"],
     "status": "Deceased",
     "birth": "July 15th",
     "height": 293,
     "blood type": "S",
     "dfname": "Nagi Nagi no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/7/71/Donquixote_Rosinante_Anime_Infobox.png/revision/latest/scale-to-width-down/337?cb=20150802160734",
     "category": 1,
     "firstChap": 761,
@@ -1166,13 +819,8 @@
   },
   "https://onepiece.fandom.com/wiki/Dorry": {
     "ename": "Dorry",
-    "affiliation": [
-      "Giant Warrior Pirates"
-    ],
-    "occupation": [
-      "Captain",
-      "Pirate"
-    ],
+    "affiliation": ["Giant Warrior Pirates"],
+    "occupation": ["Captain", "Pirate"],
     "origin": "Grand Line",
     "residence": "Elbaf<br>Little Garden (former)",
     "epithet": "Dorry the Blue Ogre )",
@@ -1189,14 +837,8 @@
   },
   "https://onepiece.fandom.com/wiki/Dracule_Mihawk": {
     "ename": "Dracule Mihawk",
-    "affiliation": [
-      "Cross Guild",
-      "Seven Warlords of the Sea"
-    ],
-    "occupation": [
-      "Pirate",
-      "Warlord of the Sea"
-    ],
+    "affiliation": ["Cross Guild", "Seven Warlords of the Sea"],
+    "occupation": ["Pirate", "Warlord of the Sea"],
     "residence": "Kuraigana Island (former);<br>Karai Bari Island",
     "epithet": "\"Hawk Eyes Mihawk\" , \"Hawk-Eye\" in the English versions)<br>\"Strongest Swordsman in the World\" )<br>\"Marine Hunter\" , Viz: \"Naval Hunter\")",
     "status": "Alive",
@@ -1211,17 +853,9 @@
     "firstEpisode": 23
   },
   "https://onepiece.fandom.com/wiki/Edward_Newgate": {
-    "ename": "Edward Newgate",
-    "affiliation": [
-      "Whitebeard Pirates",
-      "Four Emperors",
-      "Rocks Pirates"
-    ],
-    "occupation": [
-      "Captain",
-      "Pirate",
-      "Emperor"
-    ],
+    "ename": "Edward Newgate/Whitebeard",
+    "affiliation": ["Whitebeard Pirates", "Four Emperors", "Rocks Pirates"],
+    "occupation": ["Captain", "Pirate", "Emperor"],
     "origin": "Grand Line",
     "residence": "Sphinx (former)",
     "epithet": "\"Whitebeard\" , \"White Beard\" in the edited dub);<br>\"The Strongest Man in the World\" )<br>\"The Man Closest to One Piece\" )",
@@ -1231,9 +865,7 @@
     "blood type": "F",
     "bounty": 5046000000,
     "dfname": "Gura Gura no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/b/b7/Edward_Newgate_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20220926165737",
     "category": 1,
     "firstChap": 159,
@@ -1241,15 +873,8 @@
   },
   "https://onepiece.fandom.com/wiki/Emporio_Ivankov": {
     "ename": "Emporio Ivankov",
-    "affiliation": [
-      "Revolutionary Army",
-      "Kamabakka Kingdom",
-      "Newkama Land"
-    ],
-    "occupation": [
-      "Revolutionary Officer",
-      "Prisoner"
-    ],
+    "affiliation": ["Revolutionary Army", "Kamabakka Kingdom", "Newkama Land"],
+    "occupation": ["Revolutionary Officer", "Prisoner"],
     "origin": "Grand Line",
     "residence": "Momoiro Island",
     "epithet": "\"Okama King\" );<br>\"Miracle Person\" )",
@@ -1260,9 +885,7 @@
     "blood type": "XF",
     "bounty": 100000000,
     "dfname": "Horu Horu no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/d/de/Emporio_Ivankov_Anime_Infobox.png/revision/latest/scale-to-width-down/327?cb=20180624120810",
     "category": 1,
     "firstChap": 537,
@@ -1270,13 +893,8 @@
   },
   "https://onepiece.fandom.com/wiki/Enel": {
     "ename": "Eneru",
-    "affiliation": [
-      "God's Army",
-      "Automata"
-    ],
-    "occupation": [
-      "God"
-    ],
+    "affiliation": ["God's Army", "Automata"],
+    "occupation": ["God"],
     "origin": "Sky Islands",
     "residence": "Moon<br>Upper Yard (former); Birka (former)",
     "epithet": "\"God Enel\" )",
@@ -1286,9 +904,7 @@
     "height": 266,
     "blood type": "S",
     "dfname": "Goro Goro no Mi",
-    "dftype": [
-      "Logia"
-    ],
+    "dftype": ["Logia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Enel_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230520213625",
     "category": 1,
     "firstChap": 254,
@@ -1296,13 +912,8 @@
   },
   "https://onepiece.fandom.com/wiki/Eustass_Kid": {
     "ename": "Eustass Kid",
-    "affiliation": [
-      "Kid Pirates Ninja-Pirate-Mink-Samurai Alliance"
-    ],
-    "occupation": [
-      "Captain",
-      "Pirate"
-    ],
+    "affiliation": ["Kid Pirates Ninja-Pirate-Mink-Samurai Alliance"],
+    "occupation": ["Captain", "Pirate"],
     "origin": "South Blue",
     "epithet": "\"Captain\" )",
     "status": "Unknown",
@@ -1312,9 +923,7 @@
     "blood type": "F",
     "bounty": 3000000000,
     "dfname": "Jiki Jiki no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/4/47/Eustass_Kid_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20220618155553",
     "category": 1,
     "firstChap": 498,
@@ -1322,14 +931,8 @@
   },
   "https://onepiece.fandom.com/wiki/Figarland_Garling": {
     "ename": "Saint Figarland Garling",
-    "affiliation": [
-      "God's Knights",
-      "Figarland Family",
-      "World Government"
-    ],
-    "occupation": [
-      "World Noble"
-    ],
+    "affiliation": ["God's Knights", "Figarland Family", "World Government"],
+    "occupation": ["World Noble"],
     "residence": "Mary Geoise",
     "status": "Alive",
     "category": 1,
@@ -1337,15 +940,8 @@
   },
   "https://onepiece.fandom.com/wiki/Fisher_Tiger": {
     "ename": "Fisher Tiger",
-    "affiliation": [
-      "Sun Pirates",
-      "Fish-Man District"
-    ],
-    "occupation": [
-      "Pirate",
-      "Captain",
-      "Slave"
-    ],
+    "affiliation": ["Sun Pirates", "Fish-Man District"],
+    "occupation": ["Pirate", "Captain", "Slave"],
     "origin": "Grand Line",
     "residence": "Fish-Man District (former)",
     "epithet": "\"The Adventurer\" )<br style=\"clear:both\">\"Hero of Slaves\" )",
@@ -1361,13 +957,8 @@
   },
   "https://onepiece.fandom.com/wiki/Foxy": {
     "ename": "Foxy",
-    "affiliation": [
-      "Foxy Pirates"
-    ],
-    "occupation": [
-      "Pirate",
-      "Captain"
-    ],
+    "affiliation": ["Foxy Pirates"],
+    "occupation": ["Pirate", "Captain"],
     "origin": "South Blue",
     "epithet": "\"Silver Fox\" )",
     "status": "Alive",
@@ -1377,9 +968,7 @@
     "blood type": "S",
     "bounty": 24000000,
     "dfname": "Noro Noro no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/3/35/Foxy_Anime_Infobox.png/revision/latest/scale-to-width-down/333?cb=20151221112648",
     "category": 1,
     "firstChap": 305,
@@ -1394,16 +983,10 @@
       "Tom's Workers",
       "Ninja-Pirate-Mink-Samurai Alliance"
     ],
-    "occupation": [
-      "Bounty Hunter",
-      "Pirate",
-      "Mugiwara"
-    ],
+    "occupation": ["Bounty Hunter", "Pirate", "Mugiwara"],
     "origin": "South Blue",
     "residence": "Water 7 (former);<br>Karakuri Island (former, temporary)",
-    "alias": [
-      "\"Fra-nosuke\" , English versions: Franosuke)"
-    ],
+    "alias": ["\"Fra-nosuke\" , English versions: Franosuke)"],
     "epithet": "\"Iron Man\" Franky )<br>\"Cyborg\" Franky ) (former)",
     "status": "Alive",
     "age": 36,
@@ -1418,12 +1001,8 @@
   },
   "https://onepiece.fandom.com/wiki/Fukaboshi": {
     "ename": "Fukaboshi",
-    "affiliation": [
-      "Neptune Family"
-    ],
-    "occupation": [
-      "Prince"
-    ],
+    "affiliation": ["Neptune Family"],
+    "occupation": ["Prince"],
     "origin": "Grand Line",
     "residence": "Fish-Man Island",
     "status": "Alive",
@@ -1438,9 +1017,7 @@
   },
   "https://onepiece.fandom.com/wiki/Gaimon": {
     "ename": "Gaimon",
-    "occupation": [
-      "Pirate"
-    ],
+    "occupation": ["Pirate"],
     "origin": "East Blue",
     "residence": "Island of Rare Animals",
     "status": "Alive",
@@ -1455,21 +1032,11 @@
   },
   "https://onepiece.fandom.com/wiki/Galdino": {
     "ename": "Mr. 3/Galdino",
-    "affiliation": [
-      "Cross Guild",
-      "Buggy's Delivery",
-      "Buggy and Alvida Alliance",
-      "Baroque Works"
-    ],
-    "occupation": [
-      "Pirate",
-      "Prisoner of the Great Prison"
-    ],
+    "affiliation": ["Cross Guild", "Buggy's Delivery", "Buggy and Alvida Alliance", "Baroque Works"],
+    "occupation": ["Pirate", "Prisoner"],
     "origin": "South Blue",
     "residence": "Karai Bari Island",
-    "alias": [
-      "\"Mr. 3\" )"
-    ],
+    "alias": ["\"Mr. 3\" )"],
     "epithet": "\"Loan Shark\" )",
     "status": "Alive",
     "age": 37,
@@ -1478,9 +1045,7 @@
     "blood type": "F",
     "bounty": 24000000,
     "dfname": "Doru Doru no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/1/13/Galdino_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20221003165116",
     "category": 1,
     "firstChap": 117,
@@ -1488,16 +1053,8 @@
   },
   "https://onepiece.fandom.com/wiki/Gecko_Moria": {
     "ename": "Gecko Moria",
-    "affiliation": [
-      "Thriller Bark Pirates",
-      "Seven Warlords of the Sea",
-      "Gecko Pirates"
-    ],
-    "occupation": [
-      "Captain",
-      "Pirate",
-      "Warlord of the Sea"
-    ],
+    "affiliation": ["Thriller Bark Pirates", "Seven Warlords of the Sea", "Gecko Pirates"],
+    "occupation": ["Captain", "Pirate", "Warlord of the Sea"],
     "origin": "West Blue",
     "residence": "Florian Triangle (former); Thriller Bark",
     "status": "Alive",
@@ -1507,9 +1064,7 @@
     "blood type": "X",
     "bounty": 320000000,
     "dfname": "Kage Kage no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/b/be/Gecko_Moria_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20181127062446",
     "category": 1,
     "firstChap": 449,
@@ -1517,18 +1072,10 @@
   },
   "https://onepiece.fandom.com/wiki/Gol_D._Roger": {
     "ename": "Gol D. Roger",
-    "affiliation": [
-      "Roger Pirates"
-    ],
-    "occupation": [
-      "Captain",
-      "Pirate",
-      "POAT"
-    ],
+    "affiliation": ["Roger Pirates"],
+    "occupation": ["Captain", "Pirate", "POAT"],
     "origin": "East Blue",
-    "alias": [
-      "Gold Roger )"
-    ],
+    "alias": ["Gold Roger )"],
     "epithet": "Pirate King , King of the Pirates (English Versions))",
     "status": "Deceased",
     "birth": "December 31st",
@@ -1542,15 +1089,8 @@
   },
   "https://onepiece.fandom.com/wiki/Hatchan": {
     "ename": "Hatchan",
-    "affiliation": [
-      "Takoyaki 8",
-      "Arlong Pirates",
-      "Sun Pirates"
-    ],
-    "occupation": [
-      "Pirate",
-      "Pirate Officer"
-    ],
+    "affiliation": ["Takoyaki 8", "Arlong Pirates", "Sun Pirates"],
+    "occupation": ["Pirate"],
     "origin": "Grand Line",
     "residence": "Fish-Man District (former); Arlong Park (former)",
     "epithet": "Six-Sword Style Hachi )",
@@ -1567,13 +1107,8 @@
   },
   "https://onepiece.fandom.com/wiki/Helmeppo": {
     "ename": "Helmeppo",
-    "affiliation": [
-      "Marines (Headquarters",
-      "SWORD)"
-    ],
-    "occupation": [
-      "Marine Officer"
-    ],
+    "affiliation": ["Marines (Headquarters", "SWORD)"],
+    "occupation": ["Marine Officer"],
     "residence": "Shells Town (former)",
     "status": "Alive",
     "age": 22,
@@ -1587,12 +1122,8 @@
   },
   "https://onepiece.fandom.com/wiki/Higuma": {
     "ename": "Higuma",
-    "affiliation": [
-      "Higuma Bandits"
-    ],
-    "occupation": [
-      "Bandit"
-    ],
+    "affiliation": ["Higuma Bandits"],
+    "occupation": ["Bandit"],
     "origin": "East Blue",
     "status": "Deceased",
     "birth": "November 18th",
@@ -1606,15 +1137,8 @@
   },
   "https://onepiece.fandom.com/wiki/Hody_Jones": {
     "ename": "Hody Jones",
-    "affiliation": [
-      "New Fish-Man Pirates",
-      "Ally of the Flying Pirates",
-      "Ryugu Kingdom"
-    ],
-    "occupation": [
-      "Pirate",
-      "Captain"
-    ],
+    "affiliation": ["New Fish-Man Pirates", "Ally of the Flying Pirates", "Ryugu Kingdom"],
+    "occupation": ["Pirate", "Captain"],
     "origin": "Grand Line",
     "status": "Alive",
     "age": 30,
@@ -1628,14 +1152,9 @@
   },
   "https://onepiece.fandom.com/wiki/Hyogoro": {
     "ename": "Hyogoro",
-    "occupation": [
-      "Prisoner",
-      "Samurai"
-    ],
+    "occupation": ["Prisoner", "Samurai"],
     "residence": "Flower Capital (former); Udon, Wano Country",
-    "alias": [
-      "\"Grandpa Hyo\" , VIZ: \"Old Man Hyo\")"
-    ],
+    "alias": ["\"Grandpa Hyo\" , VIZ: \"Old Man Hyo\")"],
     "epithet": "\"Hyogoro of the Flower\" , VIZ: \"Hyogoro the Flower\")",
     "status": "Alive",
     "age": 70,
@@ -1649,13 +1168,9 @@
   },
   "https://onepiece.fandom.com/wiki/Imu": {
     "ename": "Imu",
-    "affiliation": [
-      "World Government"
-    ],
+    "affiliation": ["World Government"],
     "residence": "Mary Geoise (Pangaea Castle)",
-    "occupation": [
-      "Head of the World Government"
-    ],
+    "occupation": ["Head of the World Government"],
     "status": "Alive",
     "category": 1,
     "firstChap": 906,
@@ -1663,16 +1178,8 @@
   },
   "https://onepiece.fandom.com/wiki/Inazuma": {
     "ename": "Inazuma",
-    "affiliation": [
-      "Kamabakka Kingdom",
-      "Newkama Land",
-      "Revolutionary Army",
-      "Impel Down"
-    ],
-    "occupation": [
-      "Revolutionary",
-      "Prisoner of the Great Prison"
-    ],
+    "affiliation": ["Kamabakka Kingdom", "Newkama Land", "Revolutionary Army", "Impel Down"],
+    "occupation": ["Revolutionary", "Prisoner"],
     "origin": "South Blue",
     "residence": "Baltigo (former); Momoiro Island",
     "status": "Alive",
@@ -1682,16 +1189,14 @@
     "blood type": "F",
     "bounty": 100000000,
     "dfname": "Choki Choki no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/d/d8/Inazuma_Anime_Infobox.png/revision/latest/scale-to-width-down/212?cb=20221031183404",
     "category": 1,
     "firstChap": 536,
     "firstEpisode": 438
   },
   "https://onepiece.fandom.com/wiki/Inuarashi": {
-    "ename": "Dogstorm",
+    "ename": "Dogstorm/Inuarashi",
     "affiliation": [
       "Mokomo Dukedom",
       "Musketeers",
@@ -1702,10 +1207,7 @@
       "Roger Pirates",
       "Whitebeard Pirates"
     ],
-    "occupation": [
-      "Musketeers",
-      "Samurai"
-    ],
+    "occupation": ["Musketeer", "Samurai", "King"],
     "origin": "Grand Line",
     "residence": "Zou (former) (Kurau City)<br>Wano Country",
     "epithet": "\"Duke Inuarashi\" , English versions: \"Duke Dogstorm\")<br>\"Ruler of Day\" , Simulcast subs: \"King of Day\")",
@@ -1720,17 +1222,11 @@
     "firstEpisode": 756
   },
   "https://onepiece.fandom.com/wiki/Issho": {
-    "ename": "Issho",
-    "affiliation": [
-      "Marines"
-    ],
-    "occupation": [
-      "Admiral"
-    ],
+    "ename": "Issho/Fujitora",
+    "affiliation": ["Marines"],
+    "occupation": ["Admiral", "Marine Officer"],
     "origin": "Grand Line",
-    "alias": [
-      "\"Fujitora\" , literally meaning \"Wisteria Tiger\")"
-    ],
+    "alias": ["\"Fujitora\" , literally meaning \"Wisteria Tiger\")"],
     "status": "Alive",
     "age": 54,
     "birth": "August 10th",
@@ -1738,9 +1234,7 @@
     "blood type": "S",
     "bounty": 3000000000,
     "dfname": "Zushi Zushi no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Issho_Anime_Infobox.png/revision/latest/scale-to-width-down/308?cb=20220718140829",
     "category": 1,
     "firstChap": 701,
@@ -1748,14 +1242,8 @@
   },
   "https://onepiece.fandom.com/wiki/Izou": {
     "ename": "Izo",
-    "affiliation": [
-      "Whitebeard Pirates",
-      "Kozuki Family"
-    ],
-    "occupation": [
-      "Samurai",
-      "Pirate"
-    ],
+    "affiliation": ["Whitebeard Pirates", "Kozuki Family"],
+    "occupation": ["Samurai", "Pirate"],
     "origin": "Grand Line",
     "residence": "Wano Country (Ringo)",
     "status": "Deceased",
@@ -1771,12 +1259,8 @@
   },
   "https://onepiece.fandom.com/wiki/Jack": {
     "ename": "Jack",
-    "affiliation": [
-      "Beasts Pirates"
-    ],
-    "occupation": [
-      "Captain"
-    ],
+    "affiliation": ["Beasts Pirates"],
+    "occupation": ["Pirate"],
     "origin": "Grand Line",
     "residence": "Wano Country",
     "epithet": "\"Jack the Drought\" )",
@@ -1787,10 +1271,7 @@
     "blood type": "F",
     "bounty": 1000000000,
     "dfname": "Zou Zou no Mi, Model: Mammoth",
-    "dftype": [
-      "Zoan",
-      "Ancient Zoan"
-    ],
+    "dftype": ["Zoan", "Ancient Zoan"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/3/3f/Jack_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20161009223938",
     "category": 1,
     "firstChap": 801,
@@ -1798,12 +1279,8 @@
   },
   "https://onepiece.fandom.com/wiki/Jaguar_D._Saul": {
     "ename": "Jaguar D. Saul",
-    "affiliation": [
-      "Marines"
-    ],
-    "occupation": [
-      "Vice Admiral"
-    ],
+    "affiliation": ["Marines"],
+    "occupation": ["Vice Admiral", "Marine Officer"],
     "origin": "South Blue",
     "residence": "Elbaf",
     "status": "Alive",
@@ -1818,16 +1295,8 @@
   },
   "https://onepiece.fandom.com/wiki/Jango": {
     "ename": "Django",
-    "affiliation": [
-      "Marines",
-      "Black Cat Pirates"
-    ],
-    "occupation": [
-      "Marine Lieutenant",
-      "Pirate",
-      "Captain",
-      "First Mate"
-    ],
+    "affiliation": ["Marines", "Black Cat Pirates"],
+    "occupation": ["Marine Officer", "Pirate", "Captain", "First Mate"],
     "origin": "East Blue",
     "epithet": "\"One-Two\" Jango (as a pirate) );<br>\"Jango the Turncoat\" (Marine) )",
     "status": "Alive",
@@ -1843,17 +1312,10 @@
   },
   "https://onepiece.fandom.com/wiki/Jewelry_Bonney": {
     "ename": "Jewelry Bonney",
-    "affiliation": [
-      "Bonney Pirates"
-    ],
-    "occupation": [
-      "Captain",
-      "Pirate"
-    ],
+    "affiliation": ["Bonney Pirates"],
+    "occupation": ["Captain", "Pirate"],
     "origin": "South Blue",
-    "alias": [
-      "Conney )"
-    ],
+    "alias": ["Conney )"],
     "epithet": "\"Big Eater\" )",
     "status": "Alive",
     "age": 24,
@@ -1878,13 +1340,7 @@
       "Impel Down",
       "Ninja-Pirate-Mink-Samurai Alliance"
     ],
-    "occupation": [
-      "Pirate",
-      "Captain",
-      "Warlord of the Sea",
-      "Prisoner of the Great Prison",
-      "Mugiwara"
-    ],
+    "occupation": ["Pirate", "Captain", "Warlord of the Sea", "Prisoner", "Mugiwara"],
     "origin": "Grand Line",
     "residence": "Fish-Man District (former)",
     "epithet": "\"Knight of the Sea\" Jinbe , English version: \"First Son of the Sea\")<br>\"Boss Jinbe\" )",
@@ -1901,12 +1357,8 @@
   },
   "https://onepiece.fandom.com/wiki/Jozu": {
     "ename": "Jozu",
-    "affiliation": [
-      "Whitebeard Pirates"
-    ],
-    "occupation": [
-      "Pirate"
-    ],
+    "affiliation": ["Whitebeard Pirates"],
+    "occupation": ["Pirate"],
     "origin": "West Blue",
     "epithet": "\"Diamond\" Jozu )",
     "status": "Alive",
@@ -1915,9 +1367,7 @@
     "height": 503,
     "blood type": "X",
     "dfname": "Kira Kira no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/6/61/Jozu_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20220702104233",
     "category": 1,
     "firstChap": 234,
@@ -1925,16 +1375,8 @@
   },
   "https://onepiece.fandom.com/wiki/Kaidou": {
     "ename": "Kaido",
-    "affiliation": [
-      "Beasts Pirates",
-      "Rocks Pirates",
-      "Four Emperors"
-    ],
-    "occupation": [
-      "Emperor",
-      "Pirate",
-      "Captain"
-    ],
+    "affiliation": ["Beasts Pirates", "Rocks Pirates", "Four Emperors"],
+    "occupation": ["Emperor", "Pirate", "Captain"],
     "origin": "Grand Line",
     "residence": "Wano Country (Onigashima);<br>Vodka Kingdom (former)",
     "epithet": "\"Kaidou of the Beasts\" , English: \"Kaido, The King of the Beasts\")<br>\"The Strongest Creature\" )<br>\"Wise King\" , Viz: \"Deity\")",
@@ -1945,10 +1387,7 @@
     "blood type": "F",
     "bounty": 4611100000,
     "dfname": "Uo Uo no Mi, Model: Seiryu",
-    "dftype": [
-      "Zoan",
-      "Mythical Zoan"
-    ],
+    "dftype": ["Zoan", "Mythical Zoan"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Kaidou_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20221025104901",
     "category": 1,
     "firstChap": 795,
@@ -1956,14 +1395,8 @@
   },
   "https://onepiece.fandom.com/wiki/Kaku": {
     "ename": "Kaku",
-    "affiliation": [
-      "CP0",
-      "CP9",
-      "Galley-La Company"
-    ],
-    "occupation": [
-      "Cipher Pol Agent"
-    ],
+    "affiliation": ["CP0", "CP9", "Galley-La Company"],
+    "occupation": ["Cipher Pol Agent"],
     "origin": "East Blue",
     "residence": "Guanhao (former)",
     "epithet": "\"Mountain Wind\" )",
@@ -1973,9 +1406,7 @@
     "height": 193,
     "blood type": "X",
     "dfname": "Ushi Ushi no Mi, Model: Giraffe",
-    "dftype": [
-      "Zoan"
-    ],
+    "dftype": ["Zoan"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/0/09/Kaku_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/334?cb=20221127204534",
     "category": 1,
     "firstChap": 323,
@@ -1983,12 +1414,8 @@
   },
   "https://onepiece.fandom.com/wiki/Karoo": {
     "ename": "Karoo",
-    "affiliation": [
-      "Super Spot-Billed Duck Troops, Nefertari Vivi, Straw Hat Pirates , Baroque Works"
-    ],
-    "occupation": [
-      "Pirate"
-    ],
+    "affiliation": ["Super Spot-Billed Duck Troops, Nefertari Vivi, Straw Hat Pirates , Baroque Works"],
+    "occupation": ["Pirate"],
     "origin": "Grand Line",
     "residence": "Arabasta Kingdom (Alubarna)",
     "status": "Alive",
@@ -2003,18 +1430,11 @@
   },
   "https://onepiece.fandom.com/wiki/Kawamatsu": {
     "ename": "Kawamatsu",
-    "affiliation": [
-      "Kozuki Family",
-      "Nine Red Scabbards"
-    ],
-    "occupation": [
-      "Samurai"
-    ],
+    "affiliation": ["Kozuki Family", "Nine Red Scabbards"],
+    "occupation": ["Samurai"],
     "origin": "Grand Line",
     "residence": "Wano Country",
-    "alias": [
-      "Gyukimaru )"
-    ],
+    "alias": ["Gyukimaru )"],
     "epithet": "\"Kawamatsu the Kappa\" ),<br>\"Yokozuna Kawamatsu\" )",
     "status": "Alive",
     "age": 41,
@@ -2028,18 +1448,11 @@
   },
   "https://onepiece.fandom.com/wiki/Kikunojo": {
     "ename": "Kikunojo",
-    "affiliation": [
-      "Kozuki Family",
-      "Nine Red Scabbards"
-    ],
-    "occupation": [
-      "Samurai"
-    ],
+    "affiliation": ["Kozuki Family", "Nine Red Scabbards"],
+    "occupation": ["Samurai"],
     "origin": "Grand Line",
     "residence": "Wano Country (Ringo&nbsp;; Kuri)",
-    "alias": [
-      "O-Kiku , Viz: \"Okiku\")"
-    ],
+    "alias": ["O-Kiku , Viz: \"Okiku\")"],
     "epithet": "\"Kikunojo of the Lingering Snow\" , Viz: \"Kikunojo of the Fallen Snow\")",
     "status": "Alive",
     "age": 22,
@@ -2053,18 +1466,10 @@
   },
   "https://onepiece.fandom.com/wiki/Killer": {
     "ename": "Killer",
-    "affiliation": [
-      "Kid Pirates",
-      "Kurozumi Orochi"
-    ],
-    "occupation": [
-      "Pirate",
-      "First Mate"
-    ],
+    "affiliation": ["Kid Pirates", "Kurozumi Orochi"],
+    "occupation": ["Pirate", "First Mate"],
     "origin": "South Blue",
-    "alias": [
-      "\"Kamazo the Manslayer\" , Viz: \"Hitokiri Kamazo\")"
-    ],
+    "alias": ["\"Kamazo the Manslayer\" , Viz: \"Hitokiri Kamazo\")"],
     "epithet": "\"Massacre Soldier\" , Viz: \"Murder Machine\")",
     "status": "Unknown",
     "age": 27,
@@ -2079,14 +1484,8 @@
   },
   "https://onepiece.fandom.com/wiki/Kin%27emon": {
     "ename": "Kin'emon",
-    "affiliation": [
-      "Kozuki Family",
-      "Ninja-Pirate-Mink-Samurai Alliance",
-      "Nine Red Scabbards"
-    ],
-    "occupation": [
-      "Samurai"
-    ],
+    "affiliation": ["Kozuki Family", "Ninja-Pirate-Mink-Samurai Alliance", "Nine Red Scabbards"],
+    "occupation": ["Samurai"],
     "origin": "Grand Line",
     "residence": "Wano Country (Kuri)",
     "epithet": "\"Foxfire Kin'emon\" )",
@@ -2096,9 +1495,7 @@
     "height": 295,
     "blood type": "X",
     "dfname": "Fuku Fuku no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/e/ec/Kin%27emon_Anime_Infobox.png/revision/latest/scale-to-width-down/270?cb=20191124100115",
     "category": 1,
     "firstChap": 656,
@@ -2106,13 +1503,8 @@
   },
   "https://onepiece.fandom.com/wiki/King": {
     "ename": "King",
-    "affiliation": [
-      "Beasts Pirates"
-    ],
-    "occupation": [
-      "Pirate",
-      "First Mate"
-    ],
+    "affiliation": ["Beasts Pirates"],
+    "occupation": ["Pirate", "First Mate"],
     "origin": "Grand Line",
     "residence": "Wano Country",
     "epithet": "\"King the Conflagration\" , Viz: \"King the Wildfire\")",
@@ -2123,10 +1515,7 @@
     "blood type": "S",
     "bounty": 1390000000,
     "dfname": "Ryu Ryu no Mi, Model: Pteranodon",
-    "dftype": [
-      "Zoan",
-      "Ancient Zoan"
-    ],
+    "dftype": ["Zoan", "Ancient Zoan"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/8/8f/King_Anime_Infobox.png/revision/latest/scale-to-width-down/300?cb=20230423142631",
     "category": 1,
     "firstChap": 920,
@@ -2134,15 +1523,8 @@
   },
   "https://onepiece.fandom.com/wiki/Koala": {
     "ename": "Koala",
-    "affiliation": [
-      "Revolutionary Army",
-      "Sun Pirates",
-      "Slavery"
-    ],
-    "occupation": [
-      "Revolutionary Army Officer",
-      "Slave"
-    ],
+    "affiliation": ["Revolutionary Army", "Sun Pirates", "Slavery"],
+    "occupation": ["Revolutionary Officer", "Slave"],
     "residence": "Baltigo (former); Foolshout Island (former); Mary Geoise (former); Momoiro Island",
     "status": "Alive",
     "age": 23,
@@ -2156,13 +1538,8 @@
   },
   "https://onepiece.fandom.com/wiki/Koby": {
     "ename": "Koby",
-    "affiliation": [
-      "Marines , Marine 153rd Branch",
-      "Alvida Pirates"
-    ],
-    "occupation": [
-      "Marine Captain"
-    ],
+    "affiliation": ["Marines , Marine 153rd Branch", "Alvida Pirates"],
+    "occupation": ["Marine Officer"],
     "origin": "East Blue",
     "residence": "Shells Town (former); Goat Island (former)",
     "epithet": "\"Hero\" )",
@@ -2179,12 +1556,8 @@
   },
   "https://onepiece.fandom.com/wiki/Kokoro": {
     "ename": "Kokoro",
-    "affiliation": [
-      "Tom's Workers"
-    ],
-    "occupation": [
-      "Stationmaster"
-    ],
+    "affiliation": ["Tom's Workers"],
+    "occupation": ["Stationmaster"],
     "origin": "Grand Line",
     "residence": "Water 7; Fish-Man Island (former)",
     "status": "Alive",
@@ -2199,17 +1572,11 @@
   },
   "https://onepiece.fandom.com/wiki/Kozuki_Hiyori": {
     "ename": "Kozuki Hiyori",
-    "affiliation": [
-      "Kozuki Family"
-    ],
-    "occupation": [
-      "Oiran"
-    ],
+    "affiliation": ["Kozuki Family"],
+    "occupation": ["Oiran"],
     "origin": "Grand Line",
     "residence": "Wano Country (Kuri; Flower Capital)",
-    "alias": [
-      "\"Komurasaki\" )"
-    ],
+    "alias": ["\"Komurasaki\" )"],
     "status": "Alive",
     "age": 26,
     "birth": "December 23rd",
@@ -2222,14 +1589,8 @@
   },
   "https://onepiece.fandom.com/wiki/Kozuki_Momonosuke": {
     "ename": "Kozuki Momonosuke",
-    "affiliation": [
-      "Kozuki Family",
-      "Ninja-Pirate-Mink-Samurai Alliance"
-    ],
-    "occupation": [
-      "Shogun",
-      "Pirate"
-    ],
+    "affiliation": ["Kozuki Family", "Ninja-Pirate-Mink-Samurai Alliance"],
+    "occupation": ["Shogun", "Pirate"],
     "origin": "Grand Line",
     "residence": "Wano Country (Kuri)",
     "status": "Alive",
@@ -2237,10 +1598,7 @@
     "height": 110,
     "blood type": "X",
     "dfname": "Uo Uo no Mi, Model: Seiryu <small>(Artificial)</small>",
-    "dftype": [
-      "Zoan",
-      "Artificial Mythical Zoan"
-    ],
+    "dftype": ["Zoan", "Artificial Mythical Zoan"],
     "category": 1,
     "firstChap": 684,
     "firstEpisode": 609,
@@ -2248,16 +1606,8 @@
   },
   "https://onepiece.fandom.com/wiki/Kozuki_Oden": {
     "ename": "Kozuki Oden",
-    "affiliation": [
-      "Kozuki Family",
-      "Roger Pirates",
-      "Whitebeard Pirates"
-    ],
-    "occupation": [
-      "Samurai",
-      "Daimyo",
-      "Pirate"
-    ],
+    "affiliation": ["Kozuki Family", "Roger Pirates", "Whitebeard Pirates"],
+    "occupation": ["Samurai", "Daimyo", "Pirate"],
     "origin": "Grand Line",
     "residence": "Wano Country (Kuri); (Flower Capital) (former)",
     "epithet": "\"Idiot Lord\" , VIZ: \"Fool of a Lord\")",
@@ -2272,24 +1622,15 @@
   },
   "https://onepiece.fandom.com/wiki/Kozuki_Toki": {
     "ename": "Kozuki Toki",
-    "affiliation": [
-      "Kozuki Family",
-      "Amatsuki Family",
-      "Whitebeard Pirates",
-      "Roger Pirates"
-    ],
+    "affiliation": ["Kozuki Family", "Amatsuki Family", "Whitebeard Pirates", "Roger Pirates"],
     "residence": "Wano Country (Kuri)",
-    "occupation": [
-      "Pirate"
-    ],
+    "occupation": ["Pirate"],
     "status": "Deceased",
     "birth": "January 19th",
     "height": 190,
     "blood type": "X",
     "dfname": "Toki Toki no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/b/b0/Kozuki_Toki_Anime_Infobox.png/revision/latest/scale-to-width-down/205?cb=20210228232028",
     "category": 1,
     "firstChap": 919,
@@ -2297,18 +1638,11 @@
   },
   "https://onepiece.fandom.com/wiki/Kureha": {
     "ename": "Kureha",
-    "affiliation": [
-      "Sakura Kingdom",
-      "Isshi-100"
-    ],
-    "occupation": [
-      "Doctor"
-    ],
+    "affiliation": ["Sakura Kingdom", "Isshi-100"],
+    "occupation": ["Doctor"],
     "origin": "Grand Line",
     "residence": "Drum Island",
-    "alias": [
-      "\"Doctorine\" )"
-    ],
+    "alias": ["\"Doctorine\" )"],
     "epithet": "\"Witch\" );<br>\"Master of Doctors\" )",
     "status": "Alive",
     "age": 141,
@@ -2329,9 +1663,7 @@
       "Ninja-Pirate-Mink-Samurai Alliance",
       "Beasts Pirates"
     ],
-    "occupation": [
-      "Samurai"
-    ],
+    "occupation": ["Samurai"],
     "origin": "Grand Line",
     "residence": "Wano Country (Kuri)<br>Wano Country (Kibi) (Former)",
     "epithet": "\"Evening Shower\" );<br>Ghost of Kibi , VIZ Media: Goblin of Kibi)",
@@ -2340,9 +1672,7 @@
     "height": 347,
     "blood type": "X",
     "dfname": "Fude Fude no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Kurozumi_Kanjuro_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20150503144042",
     "category": 1,
     "firstChap": 700,
@@ -2350,28 +1680,17 @@
   },
   "https://onepiece.fandom.com/wiki/Kuzan": {
     "ename": "Kuzan",
-    "affiliation": [
-      "Blackbeard Pirates",
-      "Marines"
-    ],
-    "occupation": [
-      "Pirate",
-      "Admiral",
-      "Vice Admiral"
-    ],
+    "affiliation": ["Blackbeard Pirates", "Marines"],
+    "occupation": ["Pirate", "Admiral", "Marine Officer"],
     "origin": "South Blue",
-    "alias": [
-      "Aokiji , literally meaning \"Blue Pheasant\")"
-    ],
+    "alias": ["Aokiji , literally meaning \"Blue Pheasant\")"],
     "status": "Alive",
     "age": 49,
     "birth": "September 21st",
     "height": 298,
     "blood type": "F",
     "dfname": "Hie Hie no Mi",
-    "dftype": [
-      "Logia"
-    ],
+    "dftype": ["Logia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/d/d6/Kuzan_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/242?cb=20130902174645",
     "category": 1,
     "firstChap": 303,
@@ -2379,17 +1698,10 @@
   },
   "https://onepiece.fandom.com/wiki/Kyros": {
     "ename": "Kyros",
-    "affiliation": [
-      "Corrida Colosseum",
-      "Riku Royal Army"
-    ],
-    "occupation": [
-      "Gladiator"
-    ],
+    "affiliation": ["Corrida Colosseum", "Riku Royal Army"],
+    "occupation": ["Gladiator"],
     "origin": "Grand Line",
-    "alias": [
-      "\"Thunder Soldier of Rage\" , Viz: \"The Angry Lightning Soldier\");, \"The Invincible Gladiator\""
-    ],
+    "alias": ["\"Thunder Soldier of Rage\" , Viz: \"The Angry Lightning Soldier\");, \"The Invincible Gladiator\""],
     "status": "Alive",
     "age": 44,
     "birth": "September 22nd",
@@ -2402,10 +1714,7 @@
   },
   "https://onepiece.fandom.com/wiki/Laboon": {
     "ename": "Laboon",
-    "affiliation": [
-      "Rumbar Pirates",
-      "Crocus"
-    ],
+    "affiliation": ["Rumbar Pirates", "Crocus"],
     "origin": "West Blue",
     "residence": "Reverse Mountain (Twin Cape)",
     "status": "Alive",
@@ -2420,14 +1729,8 @@
   },
   "https://onepiece.fandom.com/wiki/Leo": {
     "ename": "Leo",
-    "affiliation": [
-      "Tontatta Kingdom",
-      "Tontatta Pirates",
-      "Straw Hat Grand Fleet"
-    ],
-    "occupation": [
-      "Pirate"
-    ],
+    "affiliation": ["Tontatta Kingdom", "Tontatta Pirates", "Straw Hat Grand Fleet"],
+    "occupation": ["Pirate"],
     "origin": "Grand Line",
     "epithet": "\"Warrior\" )",
     "status": "Alive",
@@ -2436,9 +1739,7 @@
     "height": 23,
     "blood type": "S",
     "dfname": "Nui Nui no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/b/be/Leo_Anime_Infobox.png/revision/latest?cb=20200422024534",
     "category": 1,
     "firstChap": 710,
@@ -2446,13 +1747,8 @@
   },
   "https://onepiece.fandom.com/wiki/Lucky_Roux": {
     "ename": "Lucky Roux",
-    "affiliation": [
-      "Red Hair Pirates"
-    ],
-    "occupation": [
-      "Pirate",
-      "Cook"
-    ],
+    "affiliation": ["Red Hair Pirates"],
+    "occupation": ["Pirate", "Cook"],
     "origin": "South Blue",
     "status": "Alive",
     "age": 35,
@@ -2466,12 +1762,8 @@
   },
   "https://onepiece.fandom.com/wiki/Magellan": {
     "ename": "Magellan",
-    "affiliation": [
-      "Impel Down"
-    ],
-    "occupation": [
-      "Chief Warden"
-    ],
+    "affiliation": ["Impel Down"],
+    "occupation": ["Chief Warden", "Marine Officer"],
     "origin": "Grand Line",
     "status": "Alive",
     "age": 47,
@@ -2479,9 +1771,7 @@
     "height": 491,
     "blood type": "X",
     "dfname": "Doku Doku no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/3/37/Magellan_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20190817215705",
     "category": 1,
     "firstChap": 528,
@@ -2489,15 +1779,8 @@
   },
   "https://onepiece.fandom.com/wiki/Marco": {
     "ename": "Marco",
-    "affiliation": [
-      "Whitebeard Pirates",
-      "Ninja-Pirate-Mink-Samurai Alliance"
-    ],
-    "occupation": [
-      "First Mate",
-      "Doctor",
-      "Pirate"
-    ],
+    "affiliation": ["Whitebeard Pirates", "Ninja-Pirate-Mink-Samurai Alliance"],
+    "occupation": ["First Mate", "Doctor", "Pirate"],
     "origin": "Grand Line",
     "residence": "Sphinx",
     "epithet": "\"Marco the Phoenix\" )",
@@ -2508,10 +1791,7 @@
     "blood type": "X",
     "bounty": 1374000000,
     "dfname": "Tori Tori no Mi, Model: Phoenix",
-    "dftype": [
-      "Zoan",
-      "Mythical Zoan"
-    ],
+    "dftype": ["Zoan", "Mythical Zoan"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/2/2c/Marco_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/179?cb=20221010015200",
     "category": 1,
     "firstChap": 234,
@@ -2525,12 +1805,7 @@
       "Seven Warlords of the Sea",
       "Whitebeard Pirates 2nd Division"
     ],
-    "occupation": [
-      "Pirate",
-      "Admiral",
-      "Emperor",
-      "Warlord of the Sea"
-    ],
+    "occupation": ["Pirate", "Emperor", "Warlord of the Sea"],
     "origin": "Grand Line",
     "residence": "Hachinosu",
     "epithet": "\"Blackbeard\" ) (\"Black Beard\" in the edited dub)",
@@ -2541,9 +1816,7 @@
     "blood type": "F",
     "bounty": 3996000000,
     "dfname": "Yami Yami no Mi",
-    "dftype": [
-      "Logia"
-    ],
+    "dftype": ["Logia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/f/ff/Marshall_D._Teach_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230406004248",
     "category": 1,
     "firstChap": 223,
@@ -2551,13 +1824,8 @@
   },
   "https://onepiece.fandom.com/wiki/Monet": {
     "ename": "Monet",
-    "affiliation": [
-      "Caesar Clown",
-      "Donquixote Pirates"
-    ],
-    "occupation": [
-      "Pirate"
-    ],
+    "affiliation": ["Caesar Clown", "Donquixote Pirates"],
+    "occupation": ["Pirate"],
     "origin": "North Blue",
     "residence": "Punk Hazard (former); Dressrosa (former)",
     "status": "Deceased",
@@ -2565,9 +1833,7 @@
     "height": 227,
     "blood type": "X",
     "dfname": "Yuki Yuki no Mi",
-    "dftype": [
-      "Logia"
-    ],
+    "dftype": ["Logia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/9/98/Monet_Anime_Infobox.png/revision/latest/scale-to-width-down/321?cb=20140616000310",
     "category": 1,
     "firstChap": 657,
@@ -2575,13 +1841,8 @@
   },
   "https://onepiece.fandom.com/wiki/Monkey_D._Dragon": {
     "ename": "Monkey D. Dragon",
-    "affiliation": [
-      "Revolutionary Army",
-      "Freedom Fighters"
-    ],
-    "occupation": [
-      "Revolutionary Officer"
-    ],
+    "affiliation": ["Revolutionary Army", "Freedom Fighters"],
+    "occupation": ["Revolutionary Officer"],
     "origin": "East Blue",
     "residence": "Baltigo (former)<br>Dawn Island (former)<br>Momoiro Island",
     "epithet": "\"Rebellious Dragon\" )<br>\"World's Worst Criminal\" , Funimation: World's Most Heinous Criminal)",
@@ -2597,13 +1858,8 @@
   },
   "https://onepiece.fandom.com/wiki/Monkey_D._Garp": {
     "ename": "Monkey D. Garp",
-    "affiliation": [
-      "Marines"
-    ],
-    "occupation": [
-      "Vice Admiral",
-      "Instructor"
-    ],
+    "affiliation": ["Marines"],
+    "occupation": ["Vice Admiral", "Marine Officer"],
     "origin": "East Blue",
     "residence": "Foosha Village (former)",
     "epithet": "\"Garp the Fist\" );<br>Hero of the Marines ) (Viz: \"Naval Hero\");<br>\"Demon/Devil\" )",
@@ -2627,21 +1883,10 @@
       "Impel Down",
       "Ninja-Pirate-Mink-Samurai Alliance"
     ],
-    "occupation": [
-      "Captain",
-      "Pirate",
-      "Emperor",
-      "Prisoner",
-      "Mugiwara"
-    ],
+    "occupation": ["Captain", "Pirate", "Emperor", "Prisoner", "Mugiwara"],
     "origin": "East Blue",
     "residence": "Foosha Village (former);<br>Mt. Colubo (former);<br>Rusukaina (former)",
-    "alias": [
-      "Lucy )",
-      "Luffy-tarou , English version: \"Luffytaro\")",
-      "Luffy-no-Umi )",
-      "Joy Boy )"
-    ],
+    "alias": ["Lucy )", "Luffy-tarou , English version: \"Luffytaro\")", "Luffy-no-Umi )", "Joy Boy )"],
     "epithet": "Straw Hat Luffy )",
     "status": "Alive",
     "age": 19,
@@ -2650,11 +1895,7 @@
     "blood type": "F",
     "bounty": 3000000000,
     "dfname": "Gomu Gomu no Mi<br><small>(Hito Hito no Mi, Model: Nika)</small>",
-    "dftype": [
-      "Zoan",
-      "Mythical Zoan",
-      "Paramecia"
-    ],
+    "dftype": ["Zoan", "Mythical Zoan", "Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/239?cb=20200429191518",
     "category": 1,
     "firstChap": 1,
@@ -2662,12 +1903,8 @@
   },
   "https://onepiece.fandom.com/wiki/Mont_Blanc_Noland": {
     "ename": "Mont Blanc Noland",
-    "affiliation": [
-      "Lvneel"
-    ],
-    "occupation": [
-      "Explorer"
-    ],
+    "affiliation": ["Lvneel"],
+    "occupation": ["Explorer"],
     "origin": "North Blue",
     "epithet": "\"Liar Noland\" )",
     "status": "Deceased",
@@ -2681,13 +1918,8 @@
   },
   "https://onepiece.fandom.com/wiki/Morgan": {
     "ename": "Morgan",
-    "affiliation": [
-      "Marines"
-    ],
-    "occupation": [
-      "Captain",
-      "Lieutenant Commander"
-    ],
+    "affiliation": ["Marines"],
+    "occupation": ["Captain", "Marine Officer"],
     "residence": "Shells Town (former)",
     "epithet": "Axe-Hand Morgan )",
     "status": "Alive",
@@ -2702,13 +1934,8 @@
   },
   "https://onepiece.fandom.com/wiki/Morgans": {
     "ename": "Morgans",
-    "affiliation": [
-      "World Economy News Paper",
-      "Underworld"
-    ],
-    "occupation": [
-      "Journalist"
-    ],
+    "affiliation": ["World Economy News Paper", "Underworld"],
+    "occupation": ["Journalist"],
     "origin": "Grand Line",
     "epithet": "\"Big News\" )",
     "status": "Alive",
@@ -2717,9 +1944,7 @@
     "height": 305,
     "blood type": "XF",
     "dfname": "Tori Tori no Mi, Model: Albatross",
-    "dftype": [
-      "Zoan"
-    ],
+    "dftype": ["Zoan"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/8/87/Morgans_Anime_Infobox.png/revision/latest/scale-to-width-down/238?cb=20180401081646",
     "category": 1,
     "firstChap": 860,
@@ -2735,17 +1960,10 @@
       "Golden Lion Pirates",
       "Ninja-Pirate-Mink-Samurai Alliance"
     ],
-    "occupation": [
-      "Navigator",
-      "Pirate",
-      "Mugiwara"
-    ],
+    "occupation": ["Navigator", "Pirate", "Mugiwara"],
     "origin": "East Blue",
     "residence": "Cocoyasi Village (former);<br>Weatheria (former, temporary)",
-    "alias": [
-      "\"Namizo\" )",
-      "\"O-Nami\" , English versions: \"Onami\")"
-    ],
+    "alias": ["\"Namizo\" )", "\"O-Nami\" , English versions: \"Onami\")"],
     "epithet": "Cat Burglar )",
     "status": "Alive",
     "age": 20,
@@ -2760,12 +1978,8 @@
   },
   "https://onepiece.fandom.com/wiki/Nefertari_Cobra": {
     "ename": "Nefeltari Cobra",
-    "affiliation": [
-      "Arabasta Kingdom"
-    ],
-    "occupation": [
-      "King"
-    ],
+    "affiliation": ["Arabasta Kingdom"],
+    "occupation": ["King"],
     "origin": "Grand Line",
     "residence": "Alubarna, Arabasta",
     "status": "Deceased",
@@ -2780,23 +1994,11 @@
   },
   "https://onepiece.fandom.com/wiki/Nefertari_Vivi": {
     "ename": "Nefeltari Vivi",
-    "affiliation": [
-      "Arabasta Kingdom",
-      "Straw Hat Pirates",
-      "Baroque Works",
-      "Suna Suna Clan"
-    ],
-    "occupation": [
-      "Princess",
-      "Pirate",
-      "Bounty Hunter",
-      "Mugiwara"
-    ],
+    "affiliation": ["Arabasta Kingdom", "Straw Hat Pirates", "Baroque Works", "Suna Suna Clan"],
+    "occupation": ["Princess", "Pirate", "Bounty Hunter", "Mugiwara"],
     "origin": "Grand Line",
     "residence": "Arabasta Kingdom (Alubarna)",
-    "alias": [
-      "\"Miss Wednesday\" )"
-    ],
+    "alias": ["\"Miss Wednesday\" )"],
     "status": "Alive",
     "age": 18,
     "birth": "February 2nd",
@@ -2808,7 +2010,7 @@
     "firstEpisode": 62
   },
   "https://onepiece.fandom.com/wiki/Nekomamushi": {
-    "ename": "Cat Viper",
+    "ename": "Cat Viper/Nekomamushi",
     "affiliation": [
       "Mokomo Dukedom",
       "Guardians",
@@ -2818,13 +2020,7 @@
       "Roger Pirates",
       "Whitebeard Pirates"
     ],
-    "occupation": [
-      "Ruler of Mokomo Dukedom",
-      "Guardian of the Whale Forest",
-      "Retainer",
-      "Samurai",
-      "Pirate Apprentice"
-    ],
+    "occupation": ["Samurai", "Pirate", "King"],
     "origin": "Grand Line",
     "residence": "Zou (Whale Forest) (Former)<br>Wano Country",
     "epithet": "\"Master Nekomamushi\" , Viz: \"Cat Viper\" Funimation: \"Master Cat Viper\")<br>\"Ruler of Night\" , Simulcast subs: \"King of Night\")",
@@ -2840,14 +2036,8 @@
   },
   "https://onepiece.fandom.com/wiki/Neptune": {
     "ename": "Neptune",
-    "affiliation": [
-      "Neptune Family",
-      "Ryugu Kingdom"
-    ],
-    "occupation": [
-      "Captain",
-      "King"
-    ],
+    "affiliation": ["Neptune Family", "Ryugu Kingdom"],
+    "occupation": ["King"],
     "origin": "Grand Line",
     "epithet": "God of the Sea ); Great Knight of the Sea )",
     "status": "Alive",
@@ -2872,19 +2062,10 @@
       "Slavery",
       "Ninja-Pirate-Mink-Samurai Alliance"
     ],
-    "occupation": [
-      "Archaeologist",
-      "Pirate",
-      "Mugiwara",
-      "Revolutionary Officer",
-      "Slave"
-    ],
+    "occupation": ["Archaeologist", "Pirate", "Mugiwara", "Revolutionary Officer", "Slave"],
     "origin": "West Blue",
     "residence": "Ohara (former);<br>Arabasta (former);<br>Baltigo (former, temporary)",
-    "alias": [
-      "\"Miss All Sunday\" , Ms. Sunday (4Kids dub)) (former)",
-      "\"O-Robi\" , English versions: \"Orobi\")"
-    ],
+    "alias": ["\"Miss All Sunday\" , Ms. Sunday (4Kids dub)) (former)", "\"O-Robi\" , English versions: \"Orobi\")"],
     "epithet": "\"Devil Child\" );<br>\"Light of the Revolution\" )",
     "status": "Alive",
     "age": 30,
@@ -2893,9 +2074,7 @@
     "blood type": "S",
     "bounty": 930000000,
     "dfname": "Hana Hana no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Nico_Robin_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/257?cb=20190202051257",
     "category": 1,
     "firstChap": 114,
@@ -2909,10 +2088,7 @@
       "Ninja-Pirate-Mink-Samurai Alliance",
       "Nox Expedition Party\\Pirates"
     ],
-    "occupation": [
-      "Pirate",
-      "Captain"
-    ],
+    "occupation": ["Pirate", "Captain"],
     "origin": "Grand Line",
     "residence": "Zou (Whale Forest)",
     "epithet": "\"Pedro of the Treetops\" , Viz: \"Treetop Pedro\")",
@@ -2928,17 +2104,10 @@
   },
   "https://onepiece.fandom.com/wiki/Pekoms": {
     "ename": "Pekoms",
-    "affiliation": [
-      "Big Mom Pirates",
-      "Nox Pirates"
-    ],
-    "occupation": [
-      "Pirate"
-    ],
+    "affiliation": ["Big Mom Pirates", "Nox Pirates"],
+    "occupation": ["Pirate"],
     "residence": "Zou (former)",
-    "alias": [
-      "\"Nazoms\" , Viz: \"Mystoms\")"
-    ],
+    "alias": ["\"Nazoms\" , Viz: \"Mystoms\")"],
     "status": "Unknown",
     "age": 27,
     "birth": "April 11th",
@@ -2946,9 +2115,7 @@
     "blood type": "S",
     "bounty": 330000000,
     "dfname": "Kame Kame no Mi",
-    "dftype": [
-      "Zoan"
-    ],
+    "dftype": ["Zoan"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/1/15/Pekoms_Anime_Infobox.png/revision/latest/scale-to-width-down/261?cb=20221107145536",
     "category": 1,
     "firstChap": 651,
@@ -2956,13 +2123,8 @@
   },
   "https://onepiece.fandom.com/wiki/Perona": {
     "ename": "Perona",
-    "affiliation": [
-      "Dracule Mihawk",
-      "Thriller Bark Pirates"
-    ],
-    "occupation": [
-      "Pirate"
-    ],
+    "affiliation": ["Dracule Mihawk", "Thriller Bark Pirates"],
+    "occupation": ["Pirate"],
     "origin": "West Blue",
     "residence": "Kuraigana Island (former);<br>Thriller Bark (former)",
     "epithet": "\"Ghost Princess\" )",
@@ -2972,9 +2134,7 @@
     "height": 160,
     "blood type": "XF",
     "dfname": "Horo Horo no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Perona_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/291?cb=20221124200121",
     "category": 1,
     "firstChap": 443,
@@ -2982,12 +2142,8 @@
   },
   "https://onepiece.fandom.com/wiki/Pica": {
     "ename": "Pica",
-    "affiliation": [
-      "Donquixote Pirates"
-    ],
-    "occupation": [
-      "Pirate"
-    ],
+    "affiliation": ["Donquixote Pirates"],
+    "occupation": ["Pirate"],
     "origin": "North Blue",
     "residence": "Spider Miles (former)<br>Dressrosa (former)",
     "status": "Alive",
@@ -2997,9 +2153,7 @@
     "blood type": "X",
     "bounty": 99000000,
     "dfname": "Ishi Ishi no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/a/a4/Pica_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20221117040111",
     "category": 1,
     "firstChap": 700,
@@ -3007,16 +2161,8 @@
   },
   "https://onepiece.fandom.com/wiki/Portgas_D._Ace": {
     "ename": "Portgas D. Ace",
-    "affiliation": [
-      "Whitebeard Pirates",
-      "Spade Pirates",
-      "Dadan Family",
-      "Impel Down"
-    ],
-    "occupation": [
-      "Pirate",
-      "Prisoner of the Great Prison"
-    ],
+    "affiliation": ["Whitebeard Pirates", "Spade Pirates", "Dadan Family", "Impel Down"],
+    "occupation": ["Pirate", "Prisoner"],
     "origin": "South Blue",
     "residence": "Baterilla (former);<br>Mt. Colubo (former)",
     "epithet": "\"Fire Fist\" Ace ) (\"Heat Fist Trace\" in the edited dub)",
@@ -3026,9 +2172,7 @@
     "blood type": "S",
     "bounty": 550000000,
     "dfname": "Mera Mera no Mi",
-    "dftype": [
-      "Logia"
-    ],
+    "dftype": ["Logia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/4/4f/Portgas_D._Ace_Anime_Infobox.png/revision/latest/scale-to-width-down/262?cb=20220311194021",
     "category": 1,
     "firstChap": 154,
@@ -3036,14 +2180,8 @@
   },
   "https://onepiece.fandom.com/wiki/Queen": {
     "ename": "Queen",
-    "affiliation": [
-      "Beasts Pirates",
-      "MADS"
-    ],
-    "occupation": [
-      "Pirate",
-      "Scientist"
-    ],
+    "affiliation": ["Beasts Pirates", "MADS"],
+    "occupation": ["Pirate", "Scientist"],
     "origin": "Grand Line",
     "residence": "Wano Country (Onigashima)",
     "epithet": "\"Queen the Plague\" )",
@@ -3054,10 +2192,7 @@
     "blood type": "XF",
     "bounty": 1320000000,
     "dfname": "Ryu Ryu no Mi, Model: Brachiosaurus",
-    "dftype": [
-      "Zoan",
-      "Ancient Zoan"
-    ],
+    "dftype": ["Zoan", "Ancient Zoan"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/5/52/Queen_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20200920174728",
     "category": 1,
     "firstChap": 920,
@@ -3065,15 +2200,8 @@
   },
   "https://onepiece.fandom.com/wiki/Raizo": {
     "ename": "Raizo",
-    "affiliation": [
-      "Kozuki Family",
-      "Nine Red Scabbards",
-      "Ninja-Pirate-Mink-Samurai Alliance"
-    ],
-    "occupation": [
-      "Ninja",
-      "Samurai"
-    ],
+    "affiliation": ["Kozuki Family", "Nine Red Scabbards", "Ninja-Pirate-Mink-Samurai Alliance"],
+    "occupation": ["Ninja", "Samurai"],
     "origin": "Grand Line",
     "residence": "Wano Country ",
     "epithet": "\"Raizo of the Mist\" )",
@@ -3083,9 +2211,7 @@
     "height": 311,
     "blood type": "X",
     "dfname": "Maki Maki no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/2/23/Raizo_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20161218152812",
     "category": 1,
     "firstChap": 817,
@@ -3093,14 +2219,8 @@
   },
   "https://onepiece.fandom.com/wiki/Rebecca": {
     "ename": "Rebecca",
-    "affiliation": [
-      "Dressrosa",
-      "Corrida Colosseum"
-    ],
-    "occupation": [
-      "Gladiator",
-      "Princess"
-    ],
+    "affiliation": ["Dressrosa", "Corrida Colosseum"],
+    "occupation": ["Gladiator", "Princess"],
     "origin": "Grand Line",
     "residence": "Dressrosa",
     "epithet": "\"The Undefeated Woman\" )<br>\"The Phantom Princess\" )",
@@ -3116,14 +2236,8 @@
   },
   "https://onepiece.fandom.com/wiki/Rob_Lucci": {
     "ename": "Rob Lucci",
-    "affiliation": [
-      "CP0",
-      "CP9",
-      "Galley-La Company"
-    ],
-    "occupation": [
-      "Cipher Pol Agent"
-    ],
+    "affiliation": ["CP0", "CP9", "Galley-La Company"],
+    "occupation": ["Cipher Pol Agent"],
     "origin": "Grand Line",
     "residence": "Guanhao (former)",
     "epithet": "\"Massacre Weapon\" )",
@@ -3133,9 +2247,7 @@
     "height": 212,
     "blood type": "XF",
     "dfname": "Neko Neko no Mi, Model: Leopard",
-    "dftype": [
-      "Zoan"
-    ],
+    "dftype": ["Zoan"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Rob_Lucci_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230102052113",
     "category": 1,
     "firstChap": 323,
@@ -3143,13 +2255,8 @@
   },
   "https://onepiece.fandom.com/wiki/Rocks_D._Xebec": {
     "ename": "Rocks D. Xebec",
-    "affiliation": [
-      "Rocks Pirates"
-    ],
-    "occupation": [
-      "Captain",
-      "Pirate"
-    ],
+    "affiliation": ["Rocks Pirates"],
+    "occupation": ["Captain", "Pirate"],
     "status": "Deceased",
     "img": "https://static.wikia.nocookie.net/onepiece/images/4/4f/Rocks_D._Xebec_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230423234513",
     "category": 1,
@@ -3164,17 +2271,10 @@
       "Shimotsuki Family",
       "Ninja-Pirate-Mink-Samurai Alliance"
     ],
-    "occupation": [
-      "Pirate",
-      "Bounty Hunter",
-      "Mugiwara",
-      "First Mate"
-    ],
+    "occupation": ["Pirate", "Bounty Hunter", "Mugiwara", "First Mate"],
     "origin": "East Blue",
     "residence": "Shimotsuki Village (former);<br>Kuraigana Island (former, temporary)",
-    "alias": [
-      "\"Zoro-juurou\" , Funimation: Zorojuro, VIZ Media: \"Zolojuro\")"
-    ],
+    "alias": ["\"Zoro-juurou\" , Funimation: Zorojuro, VIZ Media: \"Zolojuro\")"],
     "epithet": "\"Pirate Hunter Zoro\" )",
     "status": "Alive",
     "age": 21,
@@ -3189,20 +2289,11 @@
   },
   "https://onepiece.fandom.com/wiki/Sabo": {
     "ename": "Sabo",
-    "affiliation": [
-      "Revolutionary Army",
-      "Dadan Family",
-      "Goa Kingdom"
-    ],
-    "occupation": [
-      "Pirate",
-      "Revolutionary Officer"
-    ],
+    "affiliation": ["Revolutionary Army", "Dadan Family", "Goa Kingdom"],
+    "occupation": ["Pirate", "Revolutionary Officer"],
     "origin": "East Blue",
     "residence": "Goa Kingdom (former); Mt. Colubo (former); Baltigo (former); Momoiro Island",
-    "alias": [
-      "Lucy )"
-    ],
+    "alias": ["Lucy )"],
     "epithet": "\"Flame Emperor\" )",
     "status": "Alive",
     "age": 22,
@@ -3211,9 +2302,7 @@
     "blood type": "X",
     "bounty": 602000000,
     "dfname": "Mera Mera no Mi",
-    "dftype": [
-      "Logia"
-    ],
+    "dftype": ["Logia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/c/c2/Sabo_Anime_Infobox.png/revision/latest/scale-to-width-down/330?cb=20230804035141",
     "category": 1,
     "firstChap": 583,
@@ -3221,26 +2310,17 @@
   },
   "https://onepiece.fandom.com/wiki/Sakazuki": {
     "ename": "Sakazuki",
-    "affiliation": [
-      "Marines"
-    ],
-    "occupation": [
-      "Admiral",
-      "Vice Admiral"
-    ],
+    "affiliation": ["Marines"],
+    "occupation": ["Admiral", "Marine Officer"],
     "origin": "North Blue",
-    "alias": [
-      "Akainu , literally meaning \"Red Dog\")"
-    ],
+    "alias": ["Akainu , literally meaning \"Red Dog\")"],
     "status": "Alive",
     "age": 55,
     "birth": "August 16th",
     "height": 306,
     "blood type": "F",
     "dfname": "Magu Magu no Mi",
-    "dftype": [
-      "Logia"
-    ],
+    "dftype": ["Logia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Sakazuki_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/299?cb=20220829052511",
     "category": 1,
     "firstChap": 397,
@@ -3256,12 +2336,7 @@
       "Germa Kingdom",
       "Ninja-Pirate-Mink-Samurai Alliance"
     ],
-    "occupation": [
-      "Cook",
-      "Pirate",
-      "Prince",
-      "Mugiwara"
-    ],
+    "occupation": ["Cook", "Pirate", "Prince", "Mugiwara"],
     "origin": "North Blue",
     "residence": "Baratie (former);<br>Germa Kingdom (former);<br>Momoiro Island (former, temporary)",
     "alias": [
@@ -3281,31 +2356,10 @@
     "firstChap": 43,
     "firstEpisode": 20
   },
-  "https://onepiece.fandom.com/wiki/Scopper_Gaban": {
-    "ename": "Scopper Gaban",
-    "affiliation": [
-      "Pirates"
-    ],
-    "occupation": [
-      "Pirate"
-    ],
-    "status": "Unknown",
-    "img": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Scopper_Gaban_Anime_Infobox.png/revision/latest/scale-to-width-down/310?cb=20210321131336",
-    "category": 1,
-    "firstChap": 19,
-    "firstEpisode": 0
-  },
   "https://onepiece.fandom.com/wiki/Scratchmen_Apoo": {
     "ename": "Scratchmen Apoo",
-    "affiliation": [
-      "On Air Pirates",
-      "Beasts Pirates"
-    ],
-    "occupation": [
-      "Pirate",
-      "Captain",
-      "Musician"
-    ],
+    "affiliation": ["On Air Pirates", "Beasts Pirates"],
+    "occupation": ["Pirate", "Captain", "Musician"],
     "origin": "Grand Line",
     "epithet": "\"Roar of the Sea\" )",
     "status": "Alive",
@@ -3315,9 +2369,7 @@
     "blood type": "XF",
     "bounty": 350000000,
     "dfname": "Oto Oto no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/d/d0/Scratchmen_Apoo_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20210426143015",
     "category": 1,
     "firstChap": 498,
@@ -3325,13 +2377,8 @@
   },
   "https://onepiece.fandom.com/wiki/Sengoku": {
     "ename": "Sengoku",
-    "affiliation": [
-      "Marines"
-    ],
-    "occupation": [
-      "Fleet Admiral",
-      "Admiral"
-    ],
+    "affiliation": ["Marines"],
+    "occupation": ["Marine Officer", "Admiral"],
     "origin": "South Blue",
     "epithet": "\"Sengoku the Buddha\" , Funimation subs [151]: \"Saint Sengoku\");<br>\"The Resourceful General\" )",
     "status": "Alive",
@@ -3340,10 +2387,7 @@
     "height": 278,
     "blood type": "F",
     "dfname": "Hito Hito no Mi, Model: Daibutsu",
-    "dftype": [
-      "Zoan",
-      "Mythical Zoan"
-    ],
+    "dftype": ["Zoan", "Mythical Zoan"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/2/24/Sengoku_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20210208064630",
     "category": 1,
     "firstChap": 234,
@@ -3351,12 +2395,8 @@
   },
   "https://onepiece.fandom.com/wiki/Sentomaru": {
     "ename": "Sentomaru",
-    "affiliation": [
-      "Marines"
-    ],
-    "occupation": [
-      "Marine Officer"
-    ],
+    "affiliation": ["Marines"],
+    "occupation": ["Marine Officer"],
     "origin": "Grand Line",
     "status": "Alive",
     "age": 34,
@@ -3370,21 +2410,11 @@
   },
   "https://onepiece.fandom.com/wiki/Shakuyaku": {
     "ename": "Shakuyaku",
-    "affiliation": [
-      "Shakky's Rip-off Bar",
-      "Kuja",
-      "Kuja Pirates"
-    ],
-    "occupation": [
-      "Bartender",
-      "Pirate",
-      "Captain"
-    ],
+    "affiliation": ["Shakky's Rip-off Bar", "Kuja", "Kuja Pirates"],
+    "occupation": ["Bartender", "Pirate", "Captain"],
     "origin": "Calm Belt",
     "residence": "Sabaody Archipelago",
-    "alias": [
-      "\"Shakky\" )"
-    ],
+    "alias": ["\"Shakky\" )"],
     "status": "Alive",
     "age": 64,
     "birth": "May 8th",
@@ -3397,15 +2427,8 @@
   },
   "https://onepiece.fandom.com/wiki/Shanks": {
     "ename": "Shanks",
-    "affiliation": [
-      "Red Hair Pirates",
-      "Four Emperors",
-      "Roger Pirates"
-    ],
-    "occupation": [
-      "Pirate",
-      "Emperor"
-    ],
+    "affiliation": ["Red Hair Pirates", "Four Emperors", "Roger Pirates"],
+    "occupation": ["Pirate", "Emperor"],
     "origin": "West Blue",
     "epithet": "\"Red-Haired Shanks\" )",
     "status": "Alive",
@@ -3421,37 +2444,24 @@
   },
   "https://onepiece.fandom.com/wiki/Shiki": {
     "ename": "Shiki",
-    "affiliation": [
-      "Golden Lion Pirates",
-      "Rocks Pirates",
-      "Impel Down"
-    ],
-    "occupation": [
-      "Pirate",
-      "Captain",
-      "Prisoner of the Great Prison"
-    ],
+    "affiliation": ["Golden Lion Pirates", "Rocks Pirates", "Impel Down"],
+    "occupation": ["Pirate", "Captain", "Prisoner"],
     "residence": "Merveille",
     "epithet": "\"Shiki the Golden Lion\" );<br>\"The Flying Pirate\" )",
     "status": "Unknown",
     "birth": "March 20th",
     "dfname": "Fuwa Fuwa no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/3/32/Shiki_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20131122155152",
     "category": 1,
     "firstChap": 0,
-    "firstEpisode": 425
+    "firstEpisode": 425,
+    "hidden": true
   },
   "https://onepiece.fandom.com/wiki/Shimotsuki_Kuina": {
     "ename": "Kuina",
-    "affiliation": [
-      "Shimotsuki Family"
-    ],
-    "occupation": [
-      "Trainee Swordsman"
-    ],
+    "affiliation": ["Shimotsuki Family"],
+    "occupation": ["Trainee Swordsman"],
     "origin": "East Blue",
     "residence": "Shimotsuki Village",
     "status": "Deceased",
@@ -3465,17 +2475,10 @@
   },
   "https://onepiece.fandom.com/wiki/Shirahoshi": {
     "ename": "Shirahoshi",
-    "affiliation": [
-      "Neptune Family",
-      "Ryugu Kingdom"
-    ],
-    "occupation": [
-      "Princess"
-    ],
+    "affiliation": ["Neptune Family", "Ryugu Kingdom"],
+    "occupation": ["Princess"],
     "origin": "Grand Line",
-    "alias": [
-      "\"Poseidon\" )"
-    ],
+    "alias": ["\"Poseidon\" )"],
     "epithet": "\"Mermaid Princess\" )",
     "status": "Alive",
     "age": 16,
@@ -3489,14 +2492,8 @@
   },
   "https://onepiece.fandom.com/wiki/Shiryu": {
     "ename": "Shiryu",
-    "affiliation": [
-      "Blackbeard Pirates",
-      "Impel Down"
-    ],
-    "occupation": [
-      "Prisoner of the Great Prison",
-      "Pirate"
-    ],
+    "affiliation": ["Blackbeard Pirates", "Impel Down"],
+    "occupation": ["Prisoner", "Pirate"],
     "origin": "Grand Line",
     "epithet": "\"Shiryu of the Rain\" )",
     "status": "Alive",
@@ -3505,9 +2502,7 @@
     "height": 340,
     "blood type": "X",
     "dfname": "Suke Suke no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Shiryu_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230331033230",
     "category": 1,
     "firstChap": 538,
@@ -3515,13 +2510,8 @@
   },
   "https://onepiece.fandom.com/wiki/Silvers_Rayleigh": {
     "ename": "Silvers Rayleigh",
-    "affiliation": [
-      "Roger Pirates"
-    ],
-    "occupation": [
-      "First Mate",
-      "Pirate"
-    ],
+    "affiliation": ["Roger Pirates"],
+    "occupation": ["First Mate", "Pirate"],
     "residence": "Sabaody Archipelago",
     "epithet": "\"Right Hand of the Pirate King\" );<br>\"Dark King\" )",
     "status": "Alive",
@@ -3536,15 +2526,8 @@
   },
   "https://onepiece.fandom.com/wiki/Smoker": {
     "ename": "Smoker",
-    "affiliation": [
-      "Marines",
-      "G-5",
-      "Loguetown Marine Base"
-    ],
-    "occupation": [
-      "Vice Admiral",
-      "Captain"
-    ],
+    "affiliation": ["Marines", "G-5", "Loguetown Marine Base"],
+    "occupation": ["Vice Admiral", "Captain", "Marine Officer"],
     "origin": "Grand Line",
     "residence": "Loguetown (former)",
     "epithet": "\"Smoker the White Hunter\" );<br>\"White Chase Smoker\" (VIZ);<br>\"Smoke Hunter\" (4Kids)",
@@ -3554,9 +2537,7 @@
     "height": 209,
     "blood type": "XF",
     "dfname": "Moku Moku no Mi",
-    "dftype": [
-      "Logia"
-    ],
+    "dftype": ["Logia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/c/c4/Smoker_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20221101011905",
     "category": 1,
     "firstChap": 97,
@@ -3564,14 +2545,8 @@
   },
   "https://onepiece.fandom.com/wiki/Spandam": {
     "ename": "Spandam",
-    "affiliation": [
-      "CP0",
-      "CP9",
-      "CP5"
-    ],
-    "occupation": [
-      "Cipher Pol Agent"
-    ],
+    "affiliation": ["CP0", "CP9", "CP5"],
+    "occupation": ["Cipher Pol Agent"],
     "origin": "Grand Line",
     "status": "Alive",
     "age": 41,
@@ -3585,14 +2560,8 @@
   },
   "https://onepiece.fandom.com/wiki/Stussy": {
     "ename": "Stussy",
-    "affiliation": [
-      "CP0",
-      "Underworld",
-      "MADS"
-    ],
-    "occupation": [
-      "Cipher Pol Agent"
-    ],
+    "affiliation": ["CP0", "Underworld", "MADS"],
+    "occupation": ["Cipher Pol Agent"],
     "origin": "Grand Line",
     "epithet": "Queen of the Pleasure District )",
     "status": "Alive",
@@ -3607,12 +2576,8 @@
   },
   "https://onepiece.fandom.com/wiki/Sugar": {
     "ename": "Sugar",
-    "affiliation": [
-      "Donquixote Pirates"
-    ],
-    "occupation": [
-      "Pirate"
-    ],
+    "affiliation": ["Donquixote Pirates"],
+    "occupation": ["Pirate"],
     "origin": "North Blue",
     "residence": "Dressrosa (former)",
     "status": "Alive",
@@ -3621,9 +2586,7 @@
     "height": 110,
     "blood type": "XF",
     "dfname": "Hobi Hobi no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/e/e9/Sugar_Anime_Infobox.png/revision/latest/scale-to-width-down/300?cb=20141005232110",
     "category": 1,
     "firstChap": 682,
@@ -3631,14 +2594,8 @@
   },
   "https://onepiece.fandom.com/wiki/Tashigi": {
     "ename": "Tashigi",
-    "affiliation": [
-      "Marines",
-      "G-5 Unit 01",
-      "Loguetown Marine Base"
-    ],
-    "occupation": [
-      "Captain"
-    ],
+    "affiliation": ["Marines", "G-5 Unit 01", "Loguetown Marine Base"],
+    "occupation": ["Captain", "Marine Officer"],
     "origin": "East Blue",
     "residence": "Loguetown (former)",
     "status": "Alive",
@@ -3653,22 +2610,11 @@
   },
   "https://onepiece.fandom.com/wiki/Tony_Tony_Chopper": {
     "ename": "Tony Tony Chopper",
-    "affiliation": [
-      "Straw Hat Pirates",
-      "Straw Hat Grand Fleet",
-      "Foxy Pirates",
-      "Ninja-Pirate-Mink-Samurai Alliance"
-    ],
-    "occupation": [
-      "Doctor",
-      "Pirate",
-      "Mugiwara"
-    ],
+    "affiliation": ["Straw Hat Pirates", "Straw Hat Grand Fleet", "Foxy Pirates", "Ninja-Pirate-Mink-Samurai Alliance"],
+    "occupation": ["Doctor", "Pirate", "Mugiwara"],
     "origin": "Grand Line",
     "residence": "Sakura Kingdom (former);<br>Torino Kingdom (former, temporary)",
-    "alias": [
-      "\"Chopa-emon\" , English versions: Chopperemon)"
-    ],
+    "alias": ["\"Chopa-emon\" , English versions: Chopperemon)"],
     "epithet": "\"Cotton Candy Lover\" )",
     "status": "Alive",
     "age": 17,
@@ -3677,9 +2623,7 @@
     "blood type": "X",
     "bounty": 1000,
     "dfname": "Hito Hito no Mi",
-    "dftype": [
-      "Zoan"
-    ],
+    "dftype": ["Zoan"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/a/af/Tony_Tony_Chopper_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20130428202154",
     "category": 1,
     "firstChap": 134,
@@ -3693,12 +2637,7 @@
       "Seven Warlords of the Sea",
       "Donquixote Pirates"
     ],
-    "occupation": [
-      "Captain",
-      "Pirate",
-      "Doctor",
-      "Warlord of the Sea"
-    ],
+    "occupation": ["Captain", "Pirate", "Doctor", "Warlord of the Sea"],
     "origin": "North Blue",
     "residence": "Flevance (former);<br>Spider Miles (former);<br>Swallow Island (former)",
     "epithet": "\"Surgeon of Death\" )",
@@ -3709,9 +2648,7 @@
     "blood type": "F",
     "bounty": 3000000000,
     "dfname": "Ope Ope no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Trafalgar_D._Water_Law_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/222?cb=20230124163510",
     "category": 1,
     "firstChap": 498,
@@ -3719,13 +2656,8 @@
   },
   "https://onepiece.fandom.com/wiki/Urouge": {
     "ename": "Urouge",
-    "affiliation": [
-      "Fallen Monk Pirates"
-    ],
-    "occupation": [
-      "Pirate",
-      "Captain"
-    ],
+    "affiliation": ["Fallen Monk Pirates"],
+    "occupation": ["Pirate", "Captain"],
     "origin": "Sky Island",
     "residence": "Ballon Terminal",
     "epithet": "\"Mad Monk\" )",
@@ -3748,18 +2680,10 @@
       "Usopp Pirates",
       "Ninja-Pirate-Mink-Samurai Alliance"
     ],
-    "occupation": [
-      "Pirate",
-      "Captain",
-      "Mugiwara"
-    ],
+    "occupation": ["Pirate", "Captain", "Mugiwara"],
     "origin": "East Blue",
     "residence": "Syrup Village (former);<br>Boin Archipelago (former, temporary)",
-    "alias": [
-      "\"Sogeking\" ) (former)",
-      "\"Usoland\" )",
-      "\"Uso-hachi\" , English versions: Usohachi)"
-    ],
+    "alias": ["\"Sogeking\" ) (former)", "\"Usoland\" )", "\"Uso-hachi\" , English versions: Usohachi)"],
     "epithet": "\"King of Snipers\" , \"Sniper King\" (Viz));<br>\"God\" );<br>\"Hana Arashi\" ) (temporary, former)",
     "status": "Alive",
     "age": 19,
@@ -3774,44 +2698,25 @@
   },
   "https://onepiece.fandom.com/wiki/Vegapunk": {
     "ename": "Vegapunk",
-    "affiliation": [
-      "MADS",
-      "Marines"
-    ],
-    "occupation": [
-      "Scientist"
-    ],
+    "affiliation": ["MADS", "Marines"],
+    "occupation": ["Scientist"],
     "origin": "Grand Line",
     "residence": "Egghead; Punk Hazard (former)",
-    "alias": [
-      "Stella , kanji literally meaning \"Main Body\")"
-    ],
+    "alias": ["Stella , kanji literally meaning \"Main Body\")"],
     "epithet": "Dr. Vegapunk )<br>\"The Man With the Best Brain in the World\" , Viz: \"The Smartest Man in the World\")",
     "status": "Alive",
     "age": 65,
     "birth": "August 9th",
     "dfname": "Nomi Nomi no Mi",
-    "dftype": [
-      "Paramecia"
-    ],
+    "dftype": ["Paramecia"],
     "category": 1,
     "firstChap": 684,
     "firstEpisode": 610
   },
   "https://onepiece.fandom.com/wiki/Vinsmoke_Judge": {
     "ename": "Vinsmoke Judge",
-    "affiliation": [
-      "Vinsmoke Family",
-      "Germa Kingdom",
-      "Germa 66",
-      "NEO MADS",
-      "MADS"
-    ],
-    "occupation": [
-      "King",
-      "Scientist",
-      "Bandit"
-    ],
+    "affiliation": ["Vinsmoke Family", "Germa Kingdom", "Germa 66", "NEO MADS", "MADS"],
+    "occupation": ["King", "Scientist", "Bandit"],
     "origin": "North Blue",
     "epithet": "\"Garuda\" )",
     "status": "Alive",
@@ -3833,15 +2738,9 @@
       "Barrels Pirates",
       "Ninja-Pirate-Mink-Samurai Alliance"
     ],
-    "occupation": [
-      "Pirate",
-      "Captain",
-      "Marine Rear Admiral"
-    ],
+    "occupation": ["Pirate", "Captain", "Marine Officer"],
     "origin": "North Blue",
-    "alias": [
-      "Dory , English version: Drie)"
-    ],
+    "alias": ["Dory , English version: Drie)"],
     "epithet": "\"Red Flag\" )",
     "status": "Unknown",
     "age": 33,
@@ -3850,10 +2749,7 @@
     "blood type": "X",
     "bounty": 222000000,
     "dfname": "Ryu Ryu no Mi, Model: Allosaurus",
-    "dftype": [
-      "Zoan",
-      "Ancient Zoan"
-    ],
+    "dftype": ["Zoan", "Ancient Zoan"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/0/04/X_Drake_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/296?cb=20200209080003",
     "category": 1,
     "firstChap": 498,
@@ -3861,14 +2757,9 @@
   },
   "https://onepiece.fandom.com/wiki/Yamato": {
     "ename": "Yamato",
-    "affiliation": [
-      "Ninja-Pirate-Mink-Samurai Alliance",
-      "Beasts Pirates"
-    ],
+    "affiliation": ["Ninja-Pirate-Mink-Samurai Alliance", "Beasts Pirates"],
     "residence": "Wano Country (Onigashima)",
-    "alias": [
-      "\"Kozuki Oden\" )"
-    ],
+    "alias": ["\"Kozuki Oden\" )"],
     "epithet": "\"Oni Princess\" , VIZ: \"Ogre Princess\")",
     "status": "Alive",
     "age": 28,
@@ -3876,13 +2767,11 @@
     "height": 263,
     "blood type": "F",
     "dfname": "Inu Inu no Mi, Model: Okuchi no Makami",
-    "dftype": [
-      "Zoan",
-      "Mythical Zoan"
-    ],
+    "dftype": ["Zoan", "Mythical Zoan"],
     "img": "https://static.wikia.nocookie.net/onepiece/images/b/bd/Yamato_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20220119060149",
     "category": 1,
     "firstChap": 971,
-    "firstEpisode": 972
+    "firstEpisode": 972,
+    "occupation": ["Princess"]
   }
 }

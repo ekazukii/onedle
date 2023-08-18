@@ -1,5 +1,5 @@
 <tr>
-    <td> <div class="img-ctn"> <img src="data:image/jpeg;base64, <%= char.imgBase64 %>"/> </div> </td>
+    <td> <div class="img-ctn"> <img src=" <%= `img/chars/${char.ename.replace(/\s/g, '_').replace(/\//g, '_')}.jpeg` %>"/> </div> </td>
     <td class="guess-color-<%= guess.status.color %> <% if(guess.status.direction == "up") { %> guess-direction-higher <% } %> <% if(guess.status.direction == "down") { %> guess-direction-lower<% } %>" > <%= char.status %> </td>
     <td class="guess-color-<%= guess.firstChap.color %> <% if(guess.firstChap.direction == "up") { %> guess-direction-higher <% } %> <% if(guess.firstChap.direction == "down") { %> guess-direction-lower<% } %>" > <%= char.firstChap %> </td>
     <td class="guess-color-<%= guess.origin.color %> <% if(guess.origin.direction == "up") { %> guess-direction-higher <% } %> <% if(guess.origin.direction == "down") { %> guess-direction-lower<% } %>" > <%= char.origin %> </td>
