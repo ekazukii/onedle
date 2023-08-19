@@ -2309,7 +2309,7 @@
     "firstEpisode": 494
   },
   "https://onepiece.fandom.com/wiki/Sakazuki": {
-    "ename": "Sakazuki",
+    "ename": "Sakazuki/Akainu",
     "affiliation": ["Marines"],
     "occupation": ["Admiral", "Marine Officer"],
     "origin": "North Blue",
@@ -2441,22 +2441,6 @@
     "category": 1,
     "firstChap": 1,
     "firstEpisode": 4
-  },
-  "https://onepiece.fandom.com/wiki/Shiki": {
-    "ename": "Shiki",
-    "affiliation": ["Golden Lion Pirates", "Rocks Pirates", "Impel Down"],
-    "occupation": ["Pirate", "Captain", "Prisoner"],
-    "residence": "Merveille",
-    "epithet": "\"Shiki the Golden Lion\" );<br>\"The Flying Pirate\" )",
-    "status": "Unknown",
-    "birth": "March 20th",
-    "dfname": "Fuwa Fuwa no Mi",
-    "dftype": ["Paramecia"],
-    "img": "https://static.wikia.nocookie.net/onepiece/images/3/32/Shiki_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20131122155152",
-    "category": 1,
-    "firstChap": 0,
-    "firstEpisode": 425,
-    "hidden": true
   },
   "https://onepiece.fandom.com/wiki/Shimotsuki_Kuina": {
     "ename": "Kuina",

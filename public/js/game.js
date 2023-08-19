@@ -32,7 +32,8 @@ async function backupGuesses() {
 async function submitGuess(event) {
   const formData = new FormData(document.getElementById('form'));
   const input = document.getElementById('character');
-  const cryptoBroMode = getSetting('cryptoBro');
+  const cryptoBroMode = getSetting('cryptoBro') === 'true';
+  const animeMode = getSetting('anime-mode') === 'true';
   formData.append('cryptoBroMode', cryptoBroMode);
   event.preventDefault();
   const bodyData = new URLSearchParams(formData);
@@ -41,7 +42,8 @@ async function submitGuess(event) {
   input.value = '';
   resetGuess();
 
-  const data = await fetch('/htmx/guess', {
+  const url = animeMode ? '/htmx/guess/anime' : '/htmx/guess';
+  const data = await fetch(url, {
     method: 'POST',
     body: bodyData
   });
@@ -59,6 +61,15 @@ async function initGame() {
   const tableHTMLDate = localStorage.getItem('tableHTMLDate');
   const tableHTML = localStorage.getItem('tableHTML');
   const characterList = localStorage.getItem('character-list');
+
+  if (characterList === null && getSetting('anime-mode') === 'true') {
+    setAnimeCharList().then(() => {
+      resetGuess();
+    });
+  } else {
+    resetGuess();
+  }
+
   if (tableHTMLDate === new Date().toISOString().slice(0, 10)) {
     if (tableHTML) document.getElementById('tbody').innerHTML = tableHTML;
     if (characterList) document.getElementById('character-list').innerHTML = characterList;
@@ -113,6 +124,7 @@ function setAutocomplete(filteredOptions) {
     const imageCtn = document.createElement('div');
     text.innerHTML = option;
     image.src = nameToImage(option);
+    image.loading = 'lazy';
     imageCtn.classList.add('img-auto-ctn');
     imageCtn.appendChild(image);
     item.appendChild(imageCtn);
@@ -127,7 +139,12 @@ function setAutocomplete(filteredOptions) {
   items.forEach(item => list.appendChild(item));
 }
 
+async function setAnimeCharList() {
+  const data = await fetch('/charlist/anime');
+  const html = await data.text();
+  document.getElementById('character-list').innerHTML = html;
+}
+
 function resetGuess() {
   changeGuess({ target: { value: '' } });
 }
-resetGuess();

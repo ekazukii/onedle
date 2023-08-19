@@ -9,16 +9,16 @@
     <link rel="stylesheet" href="css/toast.css">
 </head>
 <body>
-    <header>
-        <nav>
-            <ul>
-                <li> <input type="image" src="img/question.svg" onclick="openHelp()" /> </li>
-                <li> <input type="image" src="img/settings.svg" onclick="openSettings()" /> </li>
-            </ul>
-        </nav>
-    </header>
 
     <div id="page">
+        <header>
+            <nav>
+                <ul>
+                    <li> <input type="image" src="img/question.svg" onclick="openHelp()" /> </li>
+                    <li> <input type="image" src="img/settings.svg" onclick="openSettings()" /> </li>
+                </ul>
+            </nav>
+        </header>
         <div>
             <main>
                 <section id="presentation">
@@ -122,6 +122,13 @@
             </label>
         </div>
         <div class="settings-input">
+            <label for="anime-mode">Anime version</label>
+            <label class="switch">
+                <input type="checkbox" class="settings-box" id="anime-mode" onchange="setSetting(this)">
+                <span class="slider round"></span>
+            </label>
+        </div>
+        <div class="settings-input">
             <label for="cryptomode">Hint every 10 tries</label>
             <label class="switch">
                 <input type="checkbox" class="settings-box" id="autoHints" onchange="setSetting(this)" disabled>
@@ -155,11 +162,19 @@
         </div>
     </div>
 
+    <div id="manga-anime-modal" class="modal">
+        <h2>Choose the right version to avoid spoilers</h2>
+        <p>Onedle has two versions, one with information from the anime and another with up-to-date information from the manga. If you choose the manga version, make sure you're up to date, as you could get spoiled about the bounty, demon fruit etc. of certain characters.</p>
+        <div id="anime-manga-choose">
+            <button id="manga-btn" onclick="setVersion('manga')">Manga version</button>
+            <button id="anime-btn" onclick="setVersion('anime')">Anime version</button>
+        </div>
+    </div>
+
     <div id="local-clear" class="toast">Local game data cleared</div>
     <div id="win-toast" class="toast">Good job ! You won in <span id="n-tries"></span> tries</div>
 
-
-    <script src="js/game.js"></script>
-    <script src="js/settings.js"></script>
+    <script defer src="js/settings.js"></script>
+    <script defer src="js/game.js"></script>
 </body>
 </html>

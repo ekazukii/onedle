@@ -33,7 +33,7 @@ body,
 #page {
   margin: 0;
   overflow-x: hidden;
-  min-height: 95vh;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -439,4 +439,32 @@ footer img {
 
 #help-modal .separated-text > div > p {
   margin: 0.4rem 0;
+}
+
+#anime-manga-choose {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+#anime-manga-choose > button {
+  margin: 0.4rem;
+  padding: 0.4rem 1rem;
+  border-radius: 0.4rem;
+  border: 1px solid var(--primary-color);
+  background-color: transparent;
+  color: var(--primary-color);
+  font-family: anime-ace;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+#anime-manga-choose > button:hover {
+  background-color: var(--primary-color);
+  color: white;
+}
+
+#manga-anime-modal p {
+  font-family: Roboto, sans-serif;
 }

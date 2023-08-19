@@ -1,5 +1,6 @@
 import express from 'express';
 import cat1 from './cat1.json' assert { type: 'json' };
+import cat1Anime from './cat1-anime.json' assert { type: 'json' };
 import morgan from 'morgan';
 import helmet from 'helmet';
 import { Character } from './types.js';
@@ -9,38 +10,51 @@ import seedrandom from 'seedrandom';
 import fetch from 'node-fetch';
 import { addWinner, getWinners } from './redis.js';
 
-const charactersMap = cat1 as { [key: string]: Character };
+const animeMapByEName = new Map<String, Character>(),
+  mangaMapByEName = new Map<String, Character>();
 const initialSeed = process.env.SEED || Math.random().toString();
 
-const entriesList = Object.entries(charactersMap).map(([url, character]) =>
-  Object.assign(Object.assign({}, character), { url })
-);
+const initMap = (json: { [key: string]: Character }, map: Map<any, any>) => {
+  const entriesList = Object.entries(json).map(([url, character]) =>
+    Object.assign(Object.assign({}, character), { url })
+  );
 
-const mapByEName = new Map();
+  for (const entry of entriesList) {
+    map.set(entry.ename, entry);
+  }
+};
 
-for (const entry of entriesList) {
-  mapByEName.set(entry.ename, entry);
-}
+initMap(cat1Anime, animeMapByEName);
+initMap(cat1, mangaMapByEName);
 
-let dailyChar: Character;
+const animeEntries = Array.from(animeMapByEName.values());
+const mangaEntries = Array.from(mangaMapByEName.values());
 
-const resetDailyChamp = async () => {
+let animeDailyChar: Character, mangaDailyChar: Character;
+
+const resetDailyChars = async () => {
   const today = new Date();
   const dayString = today.toISOString().split('T')[0];
   const rng = seedrandom(`${dayString}${initialSeed}`);
 
   // between 0 and charactersMap.length
-  const randomIndex = Math.floor(rng() * Object.keys(charactersMap).length);
-  dailyChar = entriesList[randomIndex];
-  if (!dailyChar) {
-    throw new Error('Could not find daily char');
+  const animeRandomIndex = Math.floor(rng() * animeEntries.length);
+  animeDailyChar = animeMapByEName.get(animeEntries[animeRandomIndex].ename)!;
+  if (!animeDailyChar) {
+    throw new Error('Could not find anime daily char');
+  }
+
+  const randomIndex = Math.floor(rng() * mangaEntries.length);
+  mangaDailyChar = mangaMapByEName.get(mangaEntries[randomIndex].ename)!;
+  if (!mangaDailyChar) {
+    throw new Error('Could not find manga daily char');
   }
 };
 
 schedule('0 1 * * *', () => {
-  resetDailyChamp();
+  resetDailyChars();
 });
-resetDailyChamp();
+resetDailyChars();
 
 const app = express();
 const port = 3000;
@@ -78,13 +92,21 @@ app.use(express.static('public'));
 
 app.get('/', async (req, res) => {
   const winners = await getWinners();
-  res.render('index', { entries: entriesList, winners });
+  res.render('index', { entries: mangaEntries, winners });
+});
+
+app.get('/charlist', async (req, res) => {
+  res.render('charlist', { entries: mangaEntries });
+});
+
+app.get('/charlist/anime', async (req, res) => {
+  res.render('partials/char-list', { entries: animeEntries });
 });
 
 app.post('/htmx/guess', async (req, res) => {
   const guessed = req.body.character;
   const cryptoBroMode = req.body.cryptoBroMode == 'true';
-  const char = mapByEName.get(guessed);
+  const char: any = mangaMapByEName.get(guessed);
   if (!char) {
     res.status(404).send('Character not found');
     return;
@@ -94,13 +116,35 @@ app.post('/htmx/guess', async (req, res) => {
     const charDollarsBounty = char.bounty / 100;
     char.btcBounty = charDollarsBounty / btcUsdPrice;
   }
-  const guess = createGuess(char, dailyChar);
+  const guess = createGuess(char, mangaDailyChar);
   if (guess.ename.color === 'green') {
     addWinner();
   } else {
     res.status(206);
   }
-  res.render('partials/trow', { char, guess, cryptoBroMode });
+  res.render('partials/trow', { char, guess, cryptoBroMode, anime: false });
+});
+
+app.post('/htmx/guess/anime', async (req, res) => {
+  const guessed = req.body.character;
+  const cryptoBroMode = req.body.cryptoBroMode == 'true';
+  const char: any = animeMapByEName.get(guessed);
+  if (!char) {
+    res.status(404).send('Character not found');
+    return;
+  }
+  if (cryptoBroMode && char.bounty && !char.btcBounty) {
+    const btcUsdPrice = await getBTCPrice();
+    const charDollarsBounty = char.bounty / 100;
+    char.btcBounty = charDollarsBounty / btcUsdPrice;
+  }
+  const guess = createGuess(char, animeDailyChar);
+  if (guess.ename.color === 'green') {
+    addWinner();
+  } else {
+    res.status(206);
+  }
+  res.render('partials/trow', { char, guess, cryptoBroMode, anime: true });
 });
 
 app.listen(port, () => {
