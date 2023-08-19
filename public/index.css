@@ -227,6 +227,10 @@ td {
   margin: 0.4rem;
 }
 
+thead {
+  overflow: hidden;
+}
+
 .img-ctn {
   height: 7rem;
   width: 7rem;
