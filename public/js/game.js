@@ -8,6 +8,7 @@ async function handleWin() {
     sunnies[i].classList.add('sunny-container-win');
   }
 
+  localStorage.setItem('streak', parseInt(localStorage.getItem('streak') || 0) + 1);
   localStorage.setItem('win', new Date().toISOString().slice(0, 10));
 
   document.getElementById('win-message').classList.add('active');
@@ -73,6 +74,11 @@ async function initGame() {
   if (tableHTMLDate === new Date().toISOString().slice(0, 10)) {
     if (tableHTML) document.getElementById('tbody').innerHTML = tableHTML;
     if (characterList) document.getElementById('character-list').innerHTML = characterList;
+  }
+
+  if (localStorage.getItem('streak') && localStorage.getItem('streak') > 0) {
+    document.getElementById('streak').innerHTML = localStorage.getItem('streak');
+    document.getElementById('streak-ctn').setAttribute('data-streak', localStorage.getItem('streak'));
   }
 
   // if exist and same day

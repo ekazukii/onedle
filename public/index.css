@@ -51,10 +51,32 @@ header {
   padding: 0.4rem 1rem;
 }
 
-nav input[type='image'] {
+nav input[type='image'],
+nav img {
   margin: 0;
   width: var(--icon-size);
   width: var(--icon-size);
+}
+
+#streak-ctn:has(#streak:empty) {
+  display: none;
+}
+
+#streak-ctn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+}
+
+#streak-ctn:hover::after {
+  position: absolute;
+  content: 'You have a win streak of ' attr(data-streak) ' days!';
+  margin-left: 0.4rem;
+  font-size: 0.8rem;
+  top: 40px;
+  background-color: #ddd;
+  padding: 0.4rem;
 }
 
 main {
@@ -188,7 +210,7 @@ form {
 }
 
 #gametable-ctn {
-  overflow-x: scroll !important;
+  overflow-x: scroll;
   display: block;
   max-width: 90vw;
 }
