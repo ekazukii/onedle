@@ -210,7 +210,8 @@ form {
 }
 
 #gametable-ctn {
-  overflow-x: scroll;
+  overflow-x: auto;
+  overflow-y: hidden;
   display: block;
   max-width: 90vw;
 }
