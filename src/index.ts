@@ -9,6 +9,8 @@ import { schedule } from 'node-cron';
 import seedrandom from 'seedrandom';
 import fetch from 'node-fetch';
 import { addWinner, getWinners } from './redis.js';
+import dotenv from 'dotenv';
+dotenv.config();
 
 const animeMapByEName = new Map<String, Character>(),
   mangaMapByEName = new Map<String, Character>();
