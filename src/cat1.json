@@ -1326,7 +1326,9 @@
     "img": "https://static.wikia.nocookie.net/onepiece/images/6/62/Jewelry_Bonney_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/333?cb=20230123001318",
     "category": 1,
     "firstChap": 498,
-    "firstEpisode": 392
+    "firstEpisode": 392,
+    "dfname": "Unknown",
+    "dftype": ["Paramecia"]
   },
   "https://onepiece.fandom.com/wiki/Jinbe": {
     "ename": "Jimbei",
