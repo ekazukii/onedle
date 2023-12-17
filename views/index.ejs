@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ONEDLE</title>
+    <title>ONEDLE - Guess the today's One Piece character</title>
+    <meta name="description" content="Discover our unique One Piece character guessing game! Similar to Wordle or Loldle, test your anime knowledge by identifying characters with minimal tries. Engaging, fun, and perfect for One Piece fans!">
     <link rel="stylesheet" href="index.css">
     <link rel="stylesheet" href="css/switch.css">
     <link rel="stylesheet" href="css/toast.css">
@@ -14,9 +15,9 @@
         <header>
             <nav>
                 <ul>
-                    <li> <input type="image" src="img/question.svg" onclick="openHelp()" /> </li>
-                    <li id="streak-ctn"> <img src="img/fire.svg"/> <span id="streak"></span></li>
-                    <li> <input type="image" src="img/settings.svg" onclick="openSettings()" /> </li>
+                    <li> <input type="image" src="img/question.svg" alt="Help icon" onclick="openHelp()" /> </li>
+                    <li id="streak-ctn"> <img src="img/fire.svg" alt="Fire icon, representing the current win streak"/> <span id="streak"></span></li>
+                    <li> <input type="image" src="img/settings.svg" alt="Settings icon" onclick="openSettings()" /> </li>
                 </ul>
             </nav>
         </header>
@@ -37,7 +38,7 @@
                                     </div>
                                 </div>
                                 <button id="submit-char" onclick="submitGuess(event)">
-                                    <img src="img/arrowdown.svg" id="validate-icon"/>
+                                    <img src="img/arrowdown.svg" alt="Arrow down icon, validate input" id="validate-icon"/>
                                 </button>
                             </form>
                         </div>
@@ -105,10 +106,10 @@
     </div>
 
     <div class="sunny-container">
-        <img src="img/sunny.png" alt="" class="sunny-img">
+        <img src="img/sunny.png" alt="sunny boat image, win animation" class="sunny-img">
     </div>
     <div class="sunny-container sunny-left-ctn">
-        <img src="img/sunny.png" alt="" class="sunny-img">
+        <img src="img/sunny.png" alt="sunny boat image, win animation" class="sunny-img">
     </div>
 
     <div id="settings-modal" class="modal">
@@ -138,12 +139,12 @@
         </div>
         <div class="settings-input">
             <label for="delete-data">Delete all data</label>
-            <input type="image" src="img/delete.svg" onclick="clearSettings()" />   
+            <input type="image" src="img/delete.svg" onclick="clearSettings()" alt="Trash bin icon" />   
         </div>
     </div>
 
     <div id="help-modal" class="modal">
-        <input class="close-modal"type="image" src="img/close-circle.svg" onclick="closeHelp()" />
+        <input class="close-modal" type="image" src="img/close-circle.svg" alt="Close modal icon" onclick="closeHelp()" />
 
         <h2>Help</h2>
         <div class="separated-text">
