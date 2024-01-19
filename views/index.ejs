@@ -5,6 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ONEDLE - Guess the today's One Piece character</title>
     <meta name="description" content="Discover our unique One Piece character guessing game! Similar to Wordle or Loldle, test your anime knowledge by identifying characters with minimal tries. Engaging, fun, and perfect for One Piece fans!">
+    <meta name="keywords" content="one piece, anime, manga, guess, game, wordle, loldle, character, quiz, fun, engaging, interactive, javascript, html, css, ekazuki, ekazukii, ekazuki.fr">
+    <meta name="author" content="Ekazuki">
+
+    <link rel="canonical" href="https://onedle.site">
+
+    <meta property="og:title" content="ONEDLE - Guess the today's One Piece character">
+    <meta property="og:description" content="Discover our unique One Piece character guessing game! Similar to Wordle or Loldle, test your anime knowledge by identifying characters with minimal tries. Engaging, fun, and perfect for One Piece fans!">
+    <meta property="og:url" content="https://onedle.site">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@ekazukiii">
+    <meta name="twitter:creator" content="@ekazukiii">
+    <meta name="twitter:title" content="ONEDLE - Guess the today's One Piece character">
+    <meta name="twitter:description" content="Discover our unique One Piece character guessing game! Similar to Wordle or Loldle, test your anime knowledge by identifying characters with minimal tries. Engaging, fun, and perfect for One Piece fans!">
+
     <link rel="stylesheet" href="index.css">
     <link rel="stylesheet" href="css/switch.css">
     <link rel="stylesheet" href="css/toast.css">
@@ -126,7 +141,7 @@
         <div class="settings-input">
             <label for="anime-mode">Anime version</label>
             <label class="switch">
-                <input type="checkbox" class="settings-box" id="anime-mode" onchange="setSetting(this)">
+                <input type="checkbox" class="settings-box" id="anime-mode" onchange="setSetting(this)" disabled>
                 <span class="slider round"></span>
             </label>
         </div>
@@ -170,6 +185,14 @@
         <div id="anime-manga-choose">
             <button id="manga-btn" onclick="setVersion('manga')">Manga version</button>
             <button id="anime-btn" onclick="setVersion('anime')">Anime version</button>
+        </div>
+    </div>
+
+    <div id="spoilers-modal" class="modal">
+        <h2>SPOILERS!!</h2>
+        <p>Onedle is currently developed exclusively for manga readers. Make sure you're up to date to avoid spoilers regarding bounties, demon fruits, etc., of certain characters. An anime version is under development—stay tuned!</p>
+        <div id="spoilers-choose">
+            <button id="spoilers-btn" onclick="setVersion('manga')">Let's go</button>
         </div>
     </div>
 

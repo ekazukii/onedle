@@ -10,12 +10,14 @@ function closeSettings() {
 
 function openSpoilPopup() {
   document.getElementById('page').classList.add('blur');
-  document.getElementById('manga-anime-modal').classList.add('open');
+  //document.getElementById('manga-anime-modal').classList.add('open');
+  document.getElementById('spoilers-modal').classList.add('open');
 }
 
 function closeSpoilPopup() {
   document.getElementById('page').classList.remove('blur');
-  document.getElementById('manga-anime-modal').classList.remove('open');
+  //document.getElementById('manga-anime-modal').classList.remove('open');
+  document.getElementById('spoilers-modal').classList.remove('open');
 }
 
 function initSettings() {

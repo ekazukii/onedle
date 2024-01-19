@@ -468,14 +468,16 @@ footer img {
   margin: 0.4rem 0;
 }
 
-#anime-manga-choose {
+#anime-manga-choose,
+#spoilers-choose {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
   margin-top: 2rem;
 }
 
-#anime-manga-choose > button {
+#anime-manga-choose > button,
+#spoilers-choose > button {
   margin: 0.4rem;
   padding: 0.4rem 1rem;
   border-radius: 0.4rem;
