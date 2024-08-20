@@ -73,7 +73,7 @@ app.use(
 );
 
 let btcPrice = 30000;
-let btcPriceCache: Date | null = null;
+let btcPriceCache: any = null;
 const fiveMinutes = 1000 * 60 * 5;
 
 const getBTCPrice = async () => {
