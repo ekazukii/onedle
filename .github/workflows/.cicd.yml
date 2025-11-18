@@ -8,6 +8,9 @@ on:
 jobs:
   docker:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write   # required to publish to GHCR
     steps:
       - name: Checkout
         uses: actions/checkout@v3
