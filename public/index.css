@@ -275,6 +275,8 @@ main {
   display: none;
   width: 100%;
   max-width: 520px;
+  position: relative;
+  z-index: 40;
 }
 #interactive-game.active {
   display: block;
@@ -373,7 +375,7 @@ main input[type='text']::placeholder {
   border-radius: var(--radius-md);
   padding: 6px;
   box-shadow: var(--shadow-lg);
-  z-index: 10;
+  z-index: 50;
   max-height: 22rem;
   overflow: hidden;
 }
@@ -471,8 +473,8 @@ main input[type='text']::placeholder {
   border-radius: var(--radius-lg);
   border: 1px solid var(--border-color);
   box-shadow: var(--shadow-md);
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
+  position: relative;
+  z-index: 1;
 }
 
 table {
