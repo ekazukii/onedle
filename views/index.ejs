@@ -24,6 +24,16 @@
     <link rel="stylesheet" href="index.css">
     <link rel="stylesheet" href="css/switch.css">
     <link rel="stylesheet" href="css/toast.css">
+
+    <script>
+      // Apply theme before paint to avoid flash
+      (function () {
+        try {
+          var t = localStorage.getItem('onedle-theme') || 'grand-line';
+          document.documentElement.setAttribute('data-theme', t);
+        } catch (e) {}
+      })();
+    </script>
 </head>
 <body>
 
@@ -33,6 +43,7 @@
                 <ul>
                     <li> <input type="image" src="img/question.svg" alt="Help icon" onclick="openHelp()" /> </li>
                     <li id="streak-ctn"> <img src="img/fire.svg" alt="Fire icon, representing the current win streak"/> <span id="streak"></span></li>
+                    <li id="theme-switcher" aria-label="Theme switcher"></li>
                     <li> <input type="image" src="img/settings.svg" alt="Settings icon" onclick="openSettings()" /> </li>
                 </ul>
             </nav>
@@ -200,6 +211,7 @@
     <div id="local-clear" class="toast">Local game data cleared</div>
     <div id="win-toast" class="toast">Good job ! You won in <span id="n-tries"></span> tries</div>
 
+    <script defer src="js/theme.js"></script>
     <script defer src="js/settings.js"></script>
     <script defer src="js/game.js"></script>
 </body>

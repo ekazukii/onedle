@@ -1,33 +1,32 @@
-/* The snackbar - position it at the bottom and in the middle of the screen */
+/* Toast snackbar — themed */
 .toast {
-  visibility: hidden; /* Hidden by default. Visible on click */
-  min-width: 250px; /* Set a default minimum width */
-  margin-left: -125px; /* Divide value of min-width by 2 */
-  background-color: #ffffff; /* Black background color */
+  visibility: hidden;
+  min-width: 260px;
+  margin-left: -130px;
+  background: var(--bg-card-strong);
   color: var(--primary-color);
-  text-align: center; /* Centered text */
-  border-radius: 2px; /* Rounded borders */
-  padding: 16px; /* Padding */
-  position: fixed; /* Sit on top of the screen */
-  z-index: 1; /* Add a z-index if needed */
-  left: 50%; /* Center the snackbar */
-  bottom: 30px; /* 30px from the bottom */
+  text-align: center;
+  border-radius: 12px;
+  padding: 14px 20px;
+  position: fixed;
+  z-index: 200;
+  left: 50%;
+  bottom: 30px;
+  border: 1px solid var(--border-color);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  font-weight: 600;
 }
 
 .toast.gray {
-  background-color: #ddd;
+  background: var(--bg-card);
 }
 
-/* Show the snackbar when clicking on a button (class added with JavaScript) */
 .toast.show {
-  visibility: visible; /* Show the snackbar */
-  /* Add animation: Take 0.5 seconds to fade in and out the snackbar.
-    However, delay the fade out process for 2.5 seconds */
-  -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
-  animation: fadein 0.5s, fadeout 0.5s 2.5s;
+  visibility: visible;
+  -webkit-animation: fadein 0.4s, fadeout 0.4s 2.6s;
+  animation: fadein 0.4s, fadeout 0.4s 2.6s;
 }
 
-/* Animations to fade the snackbar in and out */
 @-webkit-keyframes fadein {
   from {
     bottom: 0;
@@ -38,7 +37,6 @@
     opacity: 1;
   }
 }
-
 @keyframes fadein {
   from {
     bottom: 0;
@@ -49,7 +47,6 @@
     opacity: 1;
   }
 }
-
 @-webkit-keyframes fadeout {
   from {
     bottom: 30px;
@@ -60,7 +57,6 @@
     opacity: 0;
   }
 }
-
 @keyframes fadeout {
   from {
     bottom: 30px;
