@@ -15,8 +15,7 @@ RUN npm install
 # Bundle app source
 COPY . .
 
-RUN npm install -g typescript
-RUN tsc
+RUN npm run build
 
 EXPOSE 3000
 CMD [ "node", "build/index.js" ]
